@@ -1,17 +1,33 @@
 project:
   type: website
+
 website:
-  title: "My Lab"
+  title: "Laboratory for microbial symbiosis, ecology, and evolution"
+  site-url: "https://chang-yu-chang.github.io/changlab/"
   navbar:
-    left:
+    right:
       - text: People
         href: people.qmd
       - text: Research
         href: research.qmd
       - text: Publications
         href: publications.qmd
-      - text: Join
+      - text: Join Us
         href: join.qmd
+  page-footer:
+    left: |
+      © {{< meta year >}} Chang Lab · Biodiversity Research Center, Academia Sinica
+    right: |
+      Built with <a href="https://quarto.org">Quarto</a>
+
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: slate
+    css: styles.scss
+    toc: false
+    smooth-scroll: true
+
+# small variable to print the current year in footer
+metadata-files: [_variables.yml]

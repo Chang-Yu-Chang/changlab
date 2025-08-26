@@ -4,21 +4,21 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "People\n\nChang-Yu Chang — PI\nStudent A — genomics"
+    "text": "Chang-Yu Chang 張昌祐\nAssistant Research Fellow\nChang-Yu (he/him) got his Ph.D. at Yale University, where he started working on microbial ecology and evolution.\nEmail: changyuchang5@gmail.com\nCV · GitHub · Google Scholar · BlueSky\n\n\n\n\n\n\nLuna\nPostdoctoral Fellow\nLuna (she/her) is a scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true cat."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Publications\nComing soon…"
+    "text": "Google Scholar profile\n# Co-corresponding authors. *Co-1st authors.\n\n\n\nTesting for divergence in a plant symbiont across two natural environmental gradients\nChang CY#, Topping-Brown T, Rud J L, Calvert M B, Bencosme G, Robinson L J, Wood C#.\nbioRxiv (2025) doi:10.1101/2025.01.14.632453\n\n\n\n\n\n[7] Emergent coexistence in multispecies microbial communities\nChang CY#, Bajić D#, Vila JCC, Estrela S, Sánchez Á#.\nScience (2023) 381(6655): 343–348\n\n\n[6] Top-down and bottom-up cohesiveness in microbial community coalescence\nDiaz-Colunga J*, Lu N*, Sanchez-Gorostiaga A*, Chang CY, Cai H S, Goldford J E, Tikhonov M, Sánchez Á#.\nPNAS (2022) 119(6): e2111261119\n\n\n[5] Functional attractors in microbial community assembly\nEstrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, Chang CY, Goldford J E, Sanchez-Gorostiaga A, Sánchez Á#.\nCell Systems (2022) 13(1): 29–42.e7\n\n\n[4] Engineering complex communities by directed evolution\nChang CY*, Vila JCC*, Bender M, Li R, Mankowski M C, Bassette M, Borden J, et al. \nNature Ecology & Evolution (2021) 5(7): 1011–1023\n\n\n[3] Directed evolution of microbial communities\nSánchez Á, Vila JCC, Chang CY, Diaz-Colunga J, Estrela S, Rebolleda-Gómez M.\nAnnual Review of Biophysics (2021) 50: 323–341\n\n\n[2] Artificially selecting microbial communities using propagule strategies\nChang CY*, Osborne M L*, Bajić D, Sánchez Á.\nEvolution (2020) 74 (10): 2392–2403\n\n\n[1] Ecological effects of cellular computing in microbial populations\nBaskerville M*, Biro A*, Blazanin M*, Chang CY*, Hallworth A*, Sonnert N*, Vila JCC*, Sánchez Á.\nNatural Computing (2018) 17(4): 811–822."
   },
   {
     "objectID": "join.html",
     "href": "join.html",
-    "title": "Join Us",
+    "title": "Join the Lab",
     "section": "",
-    "text": "Join Us\nWe welcome curious, motivated students and postdocs."
+    "text": "We welcome motivated students and researchers who are excited about microbial ecology, evolution, and symbiosis, and who value a collaborative and inclusive environment.\nOur research explores how microbial symbionts assemble, diversify, and function across environments, with a focus on the balance between determinism and contingency in community assembly and the role of mobile genetic elements in host–microbe interactions.\n\n\n\nPopulation structure and genomic diversity of facultative symbionts\n\nRepeatability vs. contingency in host adaptation\n\nInteractions among mutualists, parasites, and hosts\n\nEcological and evolutionary rules of microbial community assembly\n\n\n\n\n\nComparative genomics (long- and short-read sequencing, pangenomes, synteny)\n\nExperimental evolution\n\nCommon garden and field experiments\n\nPhylogenetic and statistical modeling\n\nEcological theory\n\n\n\n\n\nProspective student should apply through the Taiwan International Graduate Program (TIGP).\n\n\n\n\n\n\nNote\n\n\n\nPlease contact Dr. Chang-Yu Chang before applying with:\n\nBrief intro (experience, interests, and why you’d like to join)\n\nCV\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nHow to apply:\nEmail Dr. Chang with:\n- CV (with 2–3 references)\n- One-page cover letter\n- 1–2 page research proposal\n- (Optional but encouraged) Fellowship or grant plans\n\n\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nHow to apply:\nCheck available undergraduate research programs (update with links).\nEmail Dr. Chang with:\n- CV\n- Short intro (background, interests, and why you’d like to join)"
   },
   {
     "objectID": "research.html",
@@ -30,9 +30,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Lab",
+    "title": "Hello there!",
     "section": "",
-    "text": "Welcome to My Lab\nWe study cool things in microbial ecology and symbiosis."
+    "text": "We are a group in the Biodiversity Research Center at Academia Sinica.\nThe lab will start in November 1st, 2025. Positions at all levels are welcome."
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Hello there!",
+    "section": "Recent posts",
+    "text": "Recent posts\n\nPost title 1\nPost title 2"
+  },
+  {
+    "objectID": "index.html#selected-links",
+    "href": "index.html#selected-links",
+    "title": "Hello there!",
+    "section": "Selected links",
+    "text": "Selected links\n\nORCID · GitHub · Bluesky Create placeholder pages like about.qmd, cv.qmd, etc. with a heading—Quarto won’t show navbar links that 404 locally."
   },
   {
     "objectID": "about.html",
@@ -40,5 +54,166 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "Chang-Yu Chang, PhD\nAssistant Research Fellow (PI)\n📧 Email 🔗 ORCID · GitHub · Google Scholar\nXX"
+  },
+  {
+    "objectID": "people.html#current-members",
+    "href": "people.html#current-members",
+    "title": "People",
+    "section": "",
+    "text": "Chang-Yu Chang 張昌祐\nAssistant Research Fellow\nChang-Yu (he/him) got his Ph.D. at Yale University, where he started working on microbial ecology and evolution.\nEmail: changyuchang5@gmail.com\nCV · GitHub · Google Scholar · BlueSky\n\n\n\n\n\n\nLuna\nPostdoctoral Fellow\nLuna (she/her) is a scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true cat."
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\nDr. X — now at Company/Institute\n\nY — PhD program at University Z\n\nZ — Research Assistant, 2023–2025"
+  },
+  {
+    "objectID": "join.html#potential-research-directions",
+    "href": "join.html#potential-research-directions",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Exploring the population structure and genomic diversity of facultative symbionts across environments\n\nInvestigating the repeatability and contingency of host adaptation in microbial symbionts\n\nStudying the ecological and evolutionary consequences of interactions among mutualists, parasites, and hosts\n\nDeveloping theoretical or quantitative frameworks for understanding microbial community assembly"
+  },
+  {
+    "objectID": "join.html#research-tools",
+    "href": "join.html#research-tools",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Comparative genomics (long- and short-read sequencing, pangenomes, synteny)\n\nExperimental evolution\n\nCommon garden and field experiments\n\nPhylogenetic and statistical modeling\n\nEcological theory"
+  },
+  {
+    "objectID": "join.html#joining-as-a-graduate-student",
+    "href": "join.html#joining-as-a-graduate-student",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Prospective graduate students should apply through the Biology Graduate Program (update with the correct program/links).\nWe strongly encourage you to contact Dr. Chang before applying.\nWhen reaching out, please include:\n\nYour CV\n\nA brief introduction (research experience, interests, and why you’d like to join our lab)\n\nWe are enthusiastic about developing graduate fellowship proposals together."
+  },
+  {
+    "objectID": "join.html#joining-as-a-postdoc",
+    "href": "join.html#joining-as-a-postdoc",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "If you are interested in joining as a postdoctoral researcher, please email Dr. Chang with:\n\nCV (with contact information for 2–3 references)\n\nA one-page cover letter describing your research background and interests in the lab\n\nA 1–2 page research proposal for a project you would like to pursue here\n\n(Highly encouraged) Plans for fellowship or grant applications to support your postdoctoral work"
+  },
+  {
+    "objectID": "join.html#joining-as-an-undergraduate-student",
+    "href": "join.html#joining-as-an-undergraduate-student",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Undergraduate students are welcome to participate through research programs or independent projects.\nPlease email Dr. Chang with:\n\nYour CV\n\nA short introduction (background, interests, and why you’d like to join the lab)"
+  },
+  {
+    "objectID": "join.html#research-themes",
+    "href": "join.html#research-themes",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Population structure and genomic diversity of facultative symbionts\n\nRepeatability vs. contingency in host adaptation\n\nInteractions among mutualists, parasites, and hosts\n\nEcological and evolutionary rules of microbial community assembly"
+  },
+  {
+    "objectID": "join.html#graduate-students",
+    "href": "join.html#graduate-students",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Prospective student should apply through the Taiwan International Graduate Program (TIGP).\n\n\n\n\n\n\nNote\n\n\n\nPlease contact Dr. Chang-Yu Chang before applying with:\n\nBrief intro (experience, interests, and why you’d like to join)\n\nCV"
+  },
+  {
+    "objectID": "join.html#postdocs",
+    "href": "join.html#postdocs",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Tip\n\n\n\nHow to apply:\nEmail Dr. Chang with:\n- CV (with 2–3 references)\n- One-page cover letter\n- 1–2 page research proposal\n- (Optional but encouraged) Fellowship or grant plans"
+  },
+  {
+    "objectID": "join.html#undergraduates",
+    "href": "join.html#undergraduates",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Important\n\n\n\nHow to apply:\nCheck available undergraduate research programs (update with links).\nEmail Dr. Chang with:\n- CV\n- Short intro (background, interests, and why you’d like to join)"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Chang-Yu Chang, Jean C. C. Vila, Madeline Bender, Richard Li, Madeleine C. Mankowski, Molly Bassette, Julia Borden, et al. (2021) Engineering complex communities by directed evolution. Nature Ecology & Evolution 5(7): 1011–1023.\nÁlvaro Sánchez, Jean C. C. Vila, Chang-Yu Chang, Juan Diaz-Colunga, Sylvie Estrela, María Rebolleda-Gómez. (2021) Directed evolution of microbial communities. Annual Review of Biophysics 50: 323–341."
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "",
+    "text": "Chang-Yu Chang, Melisa L. Osborne, Djordje Bajić, Álvaro Sánchez. (2020) Artificially selecting microbial communities using propagule strategies. bioRxiv.\nChang-Yu Chang, Melisa L. Osborne, Djordje Bajić, Álvaro Sánchez. (2020) Artificially selecting bacterial communities using propagule strategies. Evolution 74(10): 2392–2403.\nChang-Yu Chang, Jean C. C. Vila, Madeline Bender, Richard Li, Madeleine C. Mankowski, Molly Bassette, Julia Borden, et al. (2020) Top-down engineering of complex communities by directed evolution. bioRxiv."
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "",
+    "text": "Maia Baskerville, Arielle Biro, Mike Blazanin, Chang-Yu Chang, Amelia Hallworth, Nicole Sonnert, Jean C. C. Vila, Álvaro Sánchez. (2018) Ecological effects of cellular computing in microbial populations. Natural Computing 17(4): 811–822."
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "",
+    "text": "Maia Baskerville, Arielle Biro, Mike Blazanin, Chang-Yu Chang, Amelia Hallworth, Nicole Sonnert, Jean C. C. Vila, Álvaro Sánchez. (2018) Ecological effects of cellular computing in microbial populations. Natural Computing 17(4): 811–822."
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "",
+    "text": "Chang-Yu Chang, Melisa L. Osborne, Djordje Bajić, Álvaro Sánchez. (2020) Artificially selecting microbial communities using propagule strategies. bioRxiv.\nChang-Yu Chang, Melisa L. Osborne, Djordje Bajić, Álvaro Sánchez. (2020) Artificially selecting bacterial communities using propagule strategies. Evolution 74(10): 2392–2403.\nChang-Yu Chang, Jean C. C. Vila, Madeline Bender, Richard Li, Madeleine C. Mankowski, Molly Bassette, Julia Borden, et al. (2020) Top-down engineering of complex communities by directed evolution. bioRxiv."
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "",
+    "text": "Maia Baskerville, Arielle Biro, Mike Blazanin, Chang-Yu Chang, Amelia Hallworth, Nicole Sonnert, Jean C. C. Vila, Álvaro Sánchez. (2018) Ecological effects of cellular computing in microbial populations. Natural Computing 17(4): 811–822."
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "",
+    "text": "X Sun, LFM Kop, …, BB Ward. (2019) Uncultured Nitrospina-like species are major nitrite oxidizing bacteria in oxygen minimum zones. The ISME Journal 13(10).\nStory behind the paper: Follow the weirdos: outliers motivate great collaboration and research"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "",
+    "text": "Q Ji, C Frey, X Sun, …, BB Ward. (2018) Nitrogen and oxygen availabilities control water column nitrous oxide production during seasonal anoxia in the Chesapeake Bay. Biogeosciences 15(20)."
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Publications",
+    "section": "",
+    "text": "X Sun, Q Ji, A Jayakumar, BB Ward. (2017) Dependence of nitrite oxidation on nitrite and oxygen in low oxygen seawater. Geophysical Research Letters 44(15).\nX Sun, A Jayakumar, BB Ward. (2017) Community composition of N₂O-consuming bacteria in the OMZ of the ETSP. Frontiers in Microbiology 8."
+  },
+  {
+    "objectID": "publications.html#journals",
+    "href": "publications.html#journals",
+    "title": "Publications",
+    "section": "",
+    "text": "[7] Emergent coexistence in multispecies microbial communities\nChang CY#, Bajić D#, Vila JCC, Estrela S, Sánchez Á#.\nScience (2023) 381(6655): 343–348\n\n\n[6] Top-down and bottom-up cohesiveness in microbial community coalescence\nDiaz-Colunga J*, Lu N*, Sanchez-Gorostiaga A*, Chang CY, Cai H S, Goldford J E, Tikhonov M, Sánchez Á#.\nPNAS (2022) 119(6): e2111261119\n\n\n[5] Functional attractors in microbial community assembly\nEstrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, Chang CY, Goldford J E, Sanchez-Gorostiaga A, Sánchez Á#.\nCell Systems (2022) 13(1): 29–42.e7\n\n\n[4] Engineering complex communities by directed evolution\nChang CY*, Vila JCC*, Bender M, Li R, Mankowski M C, Bassette M, Borden J, et al. \nNature Ecology & Evolution (2021) 5(7): 1011–1023\n\n\n[3] Directed evolution of microbial communities\nSánchez Á, Vila JCC, Chang CY, Diaz-Colunga J, Estrela S, Rebolleda-Gómez M.\nAnnual Review of Biophysics (2021) 50: 323–341\n\n\n[2] Artificially selecting microbial communities using propagule strategies\nChang CY*, Osborne M L*, Bajić D, Sánchez Á.\nEvolution (2020) 74 (10): 2392–2403\n\n\n[1] Ecological effects of cellular computing in microbial populations\nBaskerville M*, Biro A*, Blazanin M*, Chang CY*, Hallworth A*, Sonnert N*, Vila JCC*, Sánchez Á.\nNatural Computing (2018) 17(4): 811–822."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Testing for divergence in a plant symbiont across two natural environmental gradients\nChang CY#, Topping-Brown T, Rud J L, Calvert M B, Bencosme G, Robinson L J, Wood C#.\nbioRxiv (2025) doi:10.1101/2025.01.14.632453"
   }
 ]

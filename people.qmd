@@ -1,3 +1,46 @@
 # People
-- **Chang-Yu Chang** — PI
-- Student A — genomics
+
+## Current members
+
+::: {.columns}
+::: {.column width="35%"}
+
+![](images/people/changyu.jpg){.people-photo width="300" fig-alt="Chang-Yu Chang"}
+
+:::
+::: {.column width="5%"}
+
+:::
+::: {.column width="60%"}
+
+**Chang-Yu Chang 張昌祐**  
+*Assistant Research Fellow*  
+
+Chang-Yu (he/him) got his Ph.D. at Yale University, where he started working on microbial ecology and evolution. 
+
+**Email:** changyuchang5@gmail.com
+
+[CV](files/cv.pdf) · [GitHub](https://github.com/Chang-Yu-Chang) · [Google Scholar](https://scholar.google.com/citations?user=g273Ts8AAAAJ&hl) · [BlueSky](https://bsky.app/profile/changyuchang.bsky.social)
+
+:::
+
+::: {.columns}
+::: {.column width="35%"}
+
+
+![](images/people/luna.jpg){.people-photo width="300" fig-alt="Luna"}
+:::
+::: {.column width="5%"}
+
+:::
+::: {.column width="60%"}
+
+**Luna**  
+*Postdoctoral Fellow*  
+
+Luna (she/her) is a scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true cat.
+
+:::
+
+
+## Former lab members

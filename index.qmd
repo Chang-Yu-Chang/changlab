@@ -1,2 +1,13 @@
-# Welcome to My Lab
-We study cool things in microbial ecology and symbiosis.
+---
+title: "Hello there!"
+#image: images/headshot.jpg   # add a square headshot; we’ll round it with CSS
+---
+
+
+
+![](images/research/main.jpg){width=200 height=200}
+
+We are a group in the [Biodiversity Research Center](https://www.biodiv.tw/) at Academia Sinica.
+
+The lab will start in November 1st, 2025. Positions at all levels are welcome.
+
