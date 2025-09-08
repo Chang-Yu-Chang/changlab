@@ -1,67 +1,62 @@
----
 
----
+## Emergent coexistence & community assembly
 
-> **Is biological diversity an inevitable outcome of deterministic selection, or the contingent result of historical chance?**
+::: {.columns}
+::: {.column width="35%"}
+![](images/research/coexistence.png){fig-alt="Emergent coexistence illustration" width="600"}  
 
-Biology contains multitudes: ecological and evolutionary dynamics play out across multiple levels of organization — from host communities to symbiont consortia to mobile genetic elements.  
+:::
+::: {.column width="5%"}
 
-**Evolution** is the study of history — how past mutations, rare events, and chance perturbations leave lasting imprints.  
-**Ecology** is the study of interdependence — how organisms interact with one another and their environments, shaping the diversity we see today.  
+:::
+::: {.column width="60%"}
+Community diversity is often greater than what pairwise interactions would predict.  
 
-Together, they frame a central question that drives our lab:  
+Our work has shown that **higher-order interactions** can generate **emergent coexistence**, allowing multispecies communities to persist even when pairs of species fail to coexist. Building on this principle, we aim to develop **predictive frameworks** for community assembly — asking when species combinations will converge on repeatable outcomes, and when history or chance dominates.
+
+Chang et al 2024 Science.
+:::
 
 
+## Engineering microbiomes through artificial selection
+
+::: {.columns}
+::: {.column width="35%"}
+![](images/research/landscape.png){fig-alt="Community engineering illustration" width="600"}  
 
 
-We aim to understand **symbiosis in an ecological and evolutionary context across biological scales**. We ask how deterministic forces (selection) and historical contingencies (mutations, rare events, environmental perturbations) interact to shape diversity.  
+:::
+::: {.column width="5%"}
+
+:::
+::: {.column width="60%"}
+
+Microbial communities can be treated as evolving units, subject to artificial selection.  
+
+In experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted. Our research identified strategies — stabilizing communities and perturbing ecological states — that extend this improvement. These insights point toward a **design framework for microbiome engineering**, where communities can be optimized for desired traits. 
+
+Chang et al 2020 Evolution, Chang et al 2021 Nat Ecol Evol.
+
+:::
 
 
----
+## Evolution of host–microbial systems
 
-## Theme I — Diversity at the level of host communities
+::: {.columns}
+::: {.column width="35%" height="50%"}
+![](images/research/facultative.png){fig-alt="Host–symbiont systems illustration" width="600"}  
 
-**Question:** What drives the diversity in symbiosis at the level of host communities?  
-- **Determinism (host selection):** symbiont communities differ across co-occurring hosts.  
-- **Contingency (spatial proximity):** symbiont communities differ across sampling sites and natural gradients (urbanization, elevation).  
 
-**Approaches:**  
-- Field transect sampling  
-- Metagenomics  
-- De novo genome assembly  
-- Phylogenomics  
+:::
+::: {.column width="5%"}
 
-![](images/research/theme1.png){fig-alt="Theme 1 illustration placeholder" width="600"}
+:::
+::: {.column width="60%"}
 
----
+Facultative symbionts live dual lives: free-living and host-associated.  
 
-## Theme II — Diversity at the level of symbiont communities
+Using population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments.
 
-**Question:** What drives the diversity in symbiosis at the level of symbiont communities?  
-- **Determinism (competition):** symbiont communities are highly repeatable across host replicates.  
-- **Contingency (neutrality):** symbiont communities differ across replicate hosts.  
+Chang et al 2025 bioRxiv.
 
-**Approaches:**  
-- Symbiont community enrichment experiments  
-- Synthetic community construction  
-- Metagenomics  
-- Mathematical modeling  
-
----
-
-## Theme III — Diversity at the level of symbiosis islands
-
-**Question:** What drives the diversity in symbiosis at the level of mobile symbiosis islands?  
-- **Determinism (selection at gene/genome level):** gene sweeps or genome sweeps across symbiont communities.  
-- **Contingency (horizontal gene transfer):** fixation of symbiosis islands depends on idiosyncratic HGT events.  
-
-**Approaches:**  
-- Synthetic community experiments  
-- Molecular genetics  
-- Gene editing and tagging  
-- Computer vision assays  
-
-![](images/research/theme3-islands.png){fig-alt="Theme III: diversity at the level of symbiosis islands" width="600"}  
-
-[Ref placeholder]
-
+:::

@@ -1,59 +1,8 @@
 # Join the Lab
 
 
-We welcome motivated students and researchers who are excited about **microbial ecology, evolution, and symbiosis**, and who value a collaborative and inclusive environment.  
-
-Our research explores how microbial symbionts assemble, diversify, and function across environments, with a focus on the balance between **determinism and contingency** in community assembly and the role of **mobile genetic elements** in host–microbe interactions.
-
-## Research Themes
-
-- Population structure and genomic diversity of facultative symbionts  
-- Repeatability vs. contingency in host adaptation  
-- Interactions among mutualists, parasites, and hosts  
-- Ecological and evolutionary rules of microbial community assembly  
-
-## Research Tools
-
-- Comparative genomics (long- and short-read sequencing, pangenomes, synteny)  
-- Experimental evolution  
-- Common garden and field experiments  
-- Phylogenetic and statistical modeling  
-- Ecological theory  
-
----
-
-## Graduate Students
-
-Prospective student should apply through the [**Taiwan International Graduate Program (TIGP)**](https://tigp-biodiv.biodiv.tw/).  
-
-::: callout-note
-Please contact Dr. Chang-Yu Chang before applying with:  
-  
-  - Brief intro (experience, interests, and why you’d like to join)  
-  - CV  
- 
-:::
-
----
-
-
-## Postdocs
-::: callout-tip
-**How to apply:**  
-Email Dr. Chang with:  
-- CV (with 2–3 references)  
-- One-page cover letter  
-- 1–2 page research proposal  
-- (Optional but encouraged) Fellowship or grant plans  
-:::
-
----
-
-## Undergraduates
-::: callout-important
-**How to apply:**  
-Check available undergraduate research programs (update with links).  
-Email Dr. Chang with:  
-- CV  
-- Short intro (background, interests, and why you’d like to join)  
+::: {.callout-note title="Opportunities"}
+We anticipate openings at multiple levels — including **lab manager**, **graduate students**, and **postdocs**.  
+A formal job announcement with details will follow soon.  
+Stay tuned!
 :::
