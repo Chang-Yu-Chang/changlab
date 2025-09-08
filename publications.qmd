@@ -1,4 +1,4 @@
-# Publications
+
 
 [Google Scholar profile](https://scholar.google.com/citations?user=g273Ts8AAAAJ&hl=en)
 
@@ -7,9 +7,9 @@
 ## Preprints
 
 ::: {.pub-entry}
-[Testing for divergence in a plant symbiont across two natural environmental gradients](https://doi.org/10.1101/2025.01.14.632453)  
+[Biogeographic and genomic signatures of thermal adaptation in facultative rhizobia](https://www.biorxiv.org/content/10.1101/2025.01.14.632453v2)
 
-<u>Chang CY\#</u>, Topping-Brown T, Rud J L, Calvert M B, Bencosme G, Robinson L J, Wood C\#.  
+<u>Chang CY\#</u>, Topping-Brown T, Rud J L, Calvert M B, Bencosme G, Wood C W\#.  
 
 **bioRxiv** (2025) doi:10.1101/2025.01.14.632453
 :::

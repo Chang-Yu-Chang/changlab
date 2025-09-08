@@ -1,13 +1,19 @@
 ---
-title: "Hello there!"
-#image: images/headshot.jpg   # add a square headshot; we’ll round it with CSS
 ---
 
 
+::: {.columns}
 
-![](images/research/main.jpg){width=200 height=200}
+::: {.column width="50%"}
+![](images/index/symbiosis.png){fig-alt="" width="100%"}
+:::
 
-We are a group in the [Biodiversity Research Center](https://www.biodiv.tw/) at Academia Sinica.
+::: {.column width="50%"}
+![](images/index/cartoon.png){fig-alt="1" width="100%"}
+:::
+:::
 
-The lab will start in November 1st, 2025. Positions at all levels are welcome.
 
+We are a new group at the [Biodiversity Research Center, Academia Sinica](https://www.biodiv.tw/) in Taipei, Taiwan. The lab officially launches in <u>November 2025</u>, and we welcome applications at all levels. [Join Us](join.qmd)!
+
+Our research sits at the interface of ecology, evolution, and systems biology. We study host-associated microbial communities— complex systems layered by hosts, symbionts, and mobile genes—with the goal of uncovering the simple rules that govern them. By integrating fieldwork, laboratory experiments, and theoretical models, we ask when and how diversity across multiple levels of organization emerges, persists, or collapses.
