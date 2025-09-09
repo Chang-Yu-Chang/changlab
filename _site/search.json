@@ -42,41 +42,6 @@
     "text": "Join the Lab\n\n\n\n\n\n\nOpportunities\n\n\n\nWe anticipate openings at multiple levels — including lab manager, graduate students, and postdocs.\nA formal job announcement with details will follow soon.\nStay tuned!"
   },
   {
-    "objectID": "join.html#research-themes",
-    "href": "join.html#research-themes",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "Population structure and genomic diversity of facultative symbionts\n\nRepeatability vs. contingency in host adaptation\n\nInteractions among mutualists, parasites, and hosts\n\nEcological and evolutionary rules of microbial community assembly"
-  },
-  {
-    "objectID": "join.html#research-tools",
-    "href": "join.html#research-tools",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "Comparative genomics (long- and short-read sequencing, pangenomes, synteny)\n\nExperimental evolution\n\nCommon garden and field experiments\n\nPhylogenetic and statistical modeling\n\nEcological theory"
-  },
-  {
-    "objectID": "join.html#graduate-students",
-    "href": "join.html#graduate-students",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "Prospective student should apply through the Taiwan International Graduate Program (TIGP).\n\n\n\n\n\n\nNote\n\n\n\nPlease contact Dr. Chang-Yu Chang before applying with:\n\nBrief intro (experience, interests, and why you’d like to join)\n\nCV"
-  },
-  {
-    "objectID": "join.html#postdocs",
-    "href": "join.html#postdocs",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "Tip\n\n\n\nHow to apply:\nEmail Dr. Chang with:\n- CV (with 2–3 references)\n- One-page cover letter\n- 1–2 page research proposal\n- (Optional but encouraged) Fellowship or grant plans"
-  },
-  {
-    "objectID": "join.html#undergraduates",
-    "href": "join.html#undergraduates",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "Important\n\n\n\nHow to apply:\nCheck available undergraduate research programs (update with links).\nEmail Dr. Chang with:\n- CV\n- Short intro (background, interests, and why you’d like to join)"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Laboratory for microbial symbiosis, ecology, and evolution",
@@ -84,67 +49,11 @@
     "text": "Community diversity is often greater than what pairwise interactions would predict.\nOur work has shown that higher-order interactions can generate emergent coexistence, allowing multispecies communities to persist even when pairs of species fail to coexist. Building on this principle, we aim to develop predictive frameworks for community assembly — asking when species combinations will converge on repeatable outcomes, and when history or chance dominates.\nChang et al 2024 Science.\n\n\n\n\n\n\n\n\nMicrobial communities can be treated as evolving units, subject to artificial selection.\nIn experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted. Our research identified strategies — stabilizing communities and perturbing ecological states — that extend this improvement. These insights point toward a design framework for microbiome engineering, where communities can be optimized for desired traits.\nChang et al 2020 Evolution, Chang et al 2021 Nat Ecol Evol.\n\n\n\n\n\n\n\n\nFacultative symbionts live dual lives: free-living and host-associated.\nUsing population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments.\nChang et al 2025 bioRxiv."
   },
   {
-    "objectID": "research.html#theme-i-diversity-at-the-level-of-host-communities",
-    "href": "research.html#theme-i-diversity-at-the-level-of-host-communities",
-    "title": "Laboratory for microbial symbiosis, ecology, and evolution",
-    "section": "Theme I — Diversity at the level of host communities",
-    "text": "Theme I — Diversity at the level of host communities\nQuestion: What drives the diversity in symbiosis at the level of host communities?\n- Determinism (host selection): symbiont communities differ across co-occurring hosts.\n- Contingency (spatial proximity): symbiont communities differ across sampling sites and natural gradients (urbanization, elevation).\nApproaches:\n- Field transect sampling\n- Metagenomics\n- De novo genome assembly\n- Phylogenomics"
-  },
-  {
-    "objectID": "research.html#theme-ii-diversity-at-the-level-of-symbiont-communities",
-    "href": "research.html#theme-ii-diversity-at-the-level-of-symbiont-communities",
-    "title": "Laboratory for microbial symbiosis, ecology, and evolution",
-    "section": "Theme II — Diversity at the level of symbiont communities",
-    "text": "Theme II — Diversity at the level of symbiont communities\nQuestion: What drives the diversity in symbiosis at the level of symbiont communities?\n- Determinism (competition): symbiont communities are highly repeatable across host replicates.\n- Contingency (neutrality): symbiont communities differ across replicate hosts.\nApproaches:\n- Symbiont community enrichment experiments\n- Synthetic community construction\n- Metagenomics\n- Mathematical modeling"
-  },
-  {
-    "objectID": "research.html#theme-iii-diversity-at-the-level-of-symbiosis-islands",
-    "href": "research.html#theme-iii-diversity-at-the-level-of-symbiosis-islands",
-    "title": "Laboratory for microbial symbiosis, ecology, and evolution",
-    "section": "Theme III — Diversity at the level of symbiosis islands",
-    "text": "Theme III — Diversity at the level of symbiosis islands\nQuestion: What drives the diversity in symbiosis at the level of mobile symbiosis islands?\n- Determinism (selection at gene/genome level): gene sweeps or genome sweeps across symbiont communities.\n- Contingency (horizontal gene transfer): fixation of symbiosis islands depends on idiosyncratic HGT events.\nApproaches:\n- Synthetic community experiments\n- Molecular genetics\n- Gene editing and tagging\n- Computer vision assays\n\n[Ref placeholder]"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Laboratory for microbial symbiosis, ecology, and evolution",
-    "section": "",
-    "text": "We are a new group at the Biodiversity Research Center, Academia Sinica in Taipei, Taiwan. The lab officially launches in November 2025, and we welcome applications at all levels. Join Us!\nOur research sits at the interface of ecology, evolution, and systems biology. We study host-associated microbial communities— complex systems layered by hosts, symbionts, and mobile genes—with the goal of uncovering the simple rules that govern them. By integrating fieldwork, laboratory experiments, and theoretical models, we ask when and how diversity across multiple levels of organization emerges, persists, or collapses."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "research.html#research-themes",
-    "href": "research.html#research-themes",
-    "title": "Laboratory for microbial symbiosis, ecology, and evolution",
-    "section": "Research Themes",
-    "text": "Research Themes\nOur work aims to uncover the rules that govern how microbial communities form, persist, and evolve. We combine laboratory experiments, evolutionary theory, quantitative modeling, and genomics to link ecological processes with evolutionary outcomes across scales."
-  },
-  {
     "objectID": "research.html#emergent-coexistence-community-assembly",
     "href": "research.html#emergent-coexistence-community-assembly",
     "title": "Laboratory for microbial symbiosis, ecology, and evolution",
     "section": "",
     "text": "Community diversity is often greater than what pairwise interactions would predict.\nOur work has shown that higher-order interactions can generate emergent coexistence, allowing multispecies communities to persist even when pairs of species fail to coexist. Building on this principle, we aim to develop predictive frameworks for community assembly — asking when species combinations will converge on repeatable outcomes, and when history or chance dominates.\nChang et al 2024 Science.\n\n\n\n\n\n\n\n\nMicrobial communities can be treated as evolving units, subject to artificial selection.\nIn experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted. Our research identified strategies — stabilizing communities and perturbing ecological states — that extend this improvement. These insights point toward a design framework for microbiome engineering, where communities can be optimized for desired traits.\nChang et al 2020 Evolution, Chang et al 2021 Nat Ecol Evol.\n\n\n\n\n\n\n\n\nFacultative symbionts live dual lives: free-living and host-associated.\nUsing population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments.\nChang et al 2025 bioRxiv."
-  },
-  {
-    "objectID": "research.html#theme-ii-engineering-microbiomes-through-artificial-selection",
-    "href": "research.html#theme-ii-engineering-microbiomes-through-artificial-selection",
-    "title": "Laboratory for microbial symbiosis, ecology, and evolution",
-    "section": "Theme II — Engineering microbiomes through artificial selection",
-    "text": "Theme II — Engineering microbiomes through artificial selection\nMicrobial communities can be treated as evolving units, subject to artificial selection.\nIn experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted. Our research identified strategies — stabilizing communities and perturbing ecological states — that extend this improvement. These insights point toward a design framework for microbiome engineering, where communities can be optimized for desired traits.\n\n[Ref placeholder — Nat Ecol Evol 2021, Evolution 2020, etc.]"
-  },
-  {
-    "objectID": "research.html#theme-iii-evolution-of-hostmicrobial-systems",
-    "href": "research.html#theme-iii-evolution-of-hostmicrobial-systems",
-    "title": "Laboratory for microbial symbiosis, ecology, and evolution",
-    "section": "Theme III — Evolution of host–microbial systems",
-    "text": "Theme III — Evolution of host–microbial systems\nMicrobial symbionts live dual lives: free-living and host-associated.\nUsing population and quantitative genomics, we study how these transitions shape genetic diversity and divergence. Our work on host–symbiont systems explores how selection, historical contingency, and horizontal gene transfer interact to drive adaptation across hosts and environments. Ultimately, this research links ecological context to evolutionary change in facultative symbioses.\n\n[Ref placeholder — bioRxiv 2025, ongoing projects]"
   },
   {
     "objectID": "research.html#engineering-microbiomes-through-artificial-selection",
@@ -159,5 +68,19 @@
     "title": "Laboratory for microbial symbiosis, ecology, and evolution",
     "section": "",
     "text": "Facultative symbionts live dual lives: free-living and host-associated.\nUsing population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments.\nChang et al 2025 bioRxiv."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laboratory for microbial symbiosis, ecology, and evolution",
+    "section": "",
+    "text": "We are a new group at the Biodiversity Research Center, Academia Sinica in Taipei, Taiwan. The lab officially launches in November 2025, and we welcome applications at all levels. Join Us!\nOur research sits at the interface of ecology, evolution, and systems biology. We study host-associated microbial communities— complex systems layered by hosts, symbionts, and mobile genes—with the goal of uncovering the simple rules that govern them. By integrating fieldwork, laboratory experiments, and theoretical models, we ask when and how diversity across multiple levels of organization emerges, persists, or collapses."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
