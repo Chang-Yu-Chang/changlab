@@ -2,8 +2,9 @@ project:
   type: website
 
 website:
-  title: "Laboratory for microbial symbiosis, ecology, and evolution"
+  title: "Laboratory for Microbial Symbiosis, Ecology, and Evolution"
   site-url: "https://chang-yu-chang.github.io/changlab/"
+  favicon: "images/index/logo.png"
   navbar:
     right:
       - text: People

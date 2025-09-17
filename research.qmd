@@ -1,4 +1,6 @@
 
+
+
 ## Emergent coexistence & community assembly
 
 ::: {.columns}
@@ -10,11 +12,8 @@
 
 :::
 ::: {.column width="60%"}
-Community diversity is often greater than what pairwise interactions would predict.  
+Community diversity is often greater than what pairwise interactions would predict. Our work has shown that multispecies communities can persist even when pairs of species fail to coexist, a phenomenon called **emergent coexistence** (Chang et al 2023 Science). Building on this principle, we aim to develop **predictive frameworks** for community assembly — asking when species combinations will converge on repeatable outcomes, and when history or chance dominates.
 
-Our work has shown that **higher-order interactions** can generate **emergent coexistence**, allowing multispecies communities to persist even when pairs of species fail to coexist. Building on this principle, we aim to develop **predictive frameworks** for community assembly — asking when species combinations will converge on repeatable outcomes, and when history or chance dominates.
-
-Chang et al 2024 Science.
 :::
 
 
@@ -33,9 +32,8 @@ Chang et al 2024 Science.
 
 Microbial communities can be treated as evolving units, subject to artificial selection.  
 
-In experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted. Our research identified strategies — stabilizing communities and perturbing ecological states — that extend this improvement. These insights point toward a **design framework for microbiome engineering**, where communities can be optimized for desired traits. 
+In experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted (Chang et al 2020 Evolution). Our research identified strategies — stabilizing communities and perturbing ecological states — that extend this improvement (Chang et al 2021 Nat Ecol Evol). These insights point toward a **design framework for microbiome engineering**, where communities can be optimized for desired traits. 
 
-Chang et al 2020 Evolution, Chang et al 2021 Nat Ecol Evol.
 
 :::
 
@@ -43,7 +41,7 @@ Chang et al 2020 Evolution, Chang et al 2021 Nat Ecol Evol.
 ## Evolution of host–microbial systems
 
 ::: {.columns}
-::: {.column width="35%" height="50%"}
+::: {.column width="35%" height="30%"}
 ![](images/research/facultative.png){fig-alt="Host–symbiont systems illustration" width="600"}  
 
 
@@ -53,10 +51,6 @@ Chang et al 2020 Evolution, Chang et al 2021 Nat Ecol Evol.
 :::
 ::: {.column width="60%"}
 
-Facultative symbionts live dual lives: free-living and host-associated.  
-
-Using population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments.
-
-Chang et al 2025 bioRxiv.
+Facultative symbionts live dual lives: free-living and host-associated. Using population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts. Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments (Chang et al 2025 bioRxiv).
 
 :::
