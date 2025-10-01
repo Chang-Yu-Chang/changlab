@@ -118,7 +118,7 @@ a:hover {
 /* Mobile view */
 @media (max-width: 768px) {
   .person-entry {
-    flex-direction: column;    /* stack vertically */
+    flex-direction: row;    /* stack vertically */
     align-items: center;       /* center the photo */
     text-align: center;        /* optional: center text */
   }
