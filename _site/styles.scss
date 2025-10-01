@@ -98,34 +98,17 @@ a:hover {
 }
 
 
-/* People page layout */
+/* People page layout: simple stacked profiles */
 .person-entry {
-  flex-direction: row;         /* side-by-side on desktop */
-  align-items: flex-start;
-  gap: 1.5rem;                 /* space between photo and text */
-  margin-bottom: 1rem;         /* space between people */
+  text-align: left;       /* center align everything */
+  margin-bottom: 2rem;      /* space between profiles */
 }
 
 .person-entry img.people-photo {
-  flex: 0 0 auto;              /* don’t let the photo stretch */
-  width: 220px;                /* fixed size on desktop */
-  height: 220px;
+  width: 300px;             /* adjust size as needed */
+  height: 300px;
   object-fit: cover;
-  border-radius: 6px;
+  border-radius: 6px;       /* square with rounded corners */
   border: 1px solid rgba(0,0,0,.06);
-}
-
-/* Mobile view */
-@media (max-width: 768px) {
-  .person-entry {
-    flex-direction: row;    /* stack vertically */
-    align-items: center;       /* center the photo */
-    text-align: center;        /* optional: center text */
-  }
-
-  .person-entry img.people-photo {
-    width: 220px;              /* smaller size on mobile */
-    height: 220px;
-    margin-bottom: 1rem;       /* add space below photo */
-  }
+  margin-bottom: 1rem;      /* space between photo and text */
 }
