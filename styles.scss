@@ -79,3 +79,31 @@ a:hover {
   margin-bottom: 2rem;   /* default is ~1rem */
   line-height: 1;        /* tighter line height */
 }
+
+/* Container for external publication links */
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-top: 0.5em;
+}
+
+/* Each link styled as a button-like card */
+.pub-links a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35em 0.75em;
+  border: 1px solid #007acc;
+  border-radius: 6px;
+  background-color: #fff;
+  color: #007acc;
+  text-decoration: none;
+  font-size: 0.9em;
+  font-weight: 500;
+  transition: background 0.2s, color 0.2s;
+}
+
+.pub-links a:hover {
+  background-color: #007acc;
+  color: #fff;
+}
