@@ -108,8 +108,8 @@ a:hover {
 
 .person-entry img.people-photo {
   flex: 0 0 auto;              /* don’t let the photo stretch */
-  width: 220px;                /* fixed size on desktop */
-  height: 220px;
+  width: 300px;                /* fixed size on desktop */
+  height: 300px;
   object-fit: cover;
   border-radius: 6px;
   border: 1px solid rgba(0,0,0,.06);
