@@ -1,44 +1,51 @@
-
+---
+title: "People"
+format:
+  html:
+    page-layout: full
+---
 
 ## Current members
 
-::: {.columns}
-::: {.column width="35%"}
-
-![](images/people/changyu.jpg){.people-photo width="300" fig-alt="Chang-Yu Chang"}
-
+::: {.person-entry .columns}
+::: {.column width="25%"}
+![](images/people/changyu.jpg){.people-photo width="500" fig-alt="Chang-Yu Chang"}
 :::
 ::: {.column width="5%"}
-
 :::
-::: {.column width="60%"}
+::: {.column width="70%"}
 
-**Chang-Yu Chang 張昌祐**  
-*Assistant Research Fellow*  
+**Chang-Yu Chang 張昌祐** &nbsp;&nbsp;&nbsp; *Principal Investigator*
+
+Chang-Yu (he/him) is fascinated by the system-level properties that emerge across different levels of biological organization, particularly as the result of species interactions and evolutionary forces. As an evolutionary ecologist and systems biologist, he enjoys collaborating with field ecologists, theoreticians, and bioengineers. Chang-Yu received his PhD in Ecology and Evolutionary Biology at Yale University, where he studied the emergent properties of microbial consortia with [Álvaro Sánchez](https://sanchezlaboratory.weebly.com/). He then joined the University of Pennsylvania as a postdoctoral fellow, investigating the evolution of plant–microbe symbiosis with [Corlett Wood](https://www.the-wood-lab.com/), before joining the Biodiversity Research Center, Academia Sinica. 
+
+Outside of science, Chang-Yu is an avid craft beer enthusiast. He’s always happy to chat about microbes and fermentation. You can find his latest drinking notes on [Untappd](https://untappd.com/user/changyu).
 
 **Email:** changyuchang5@gmail.com
 
 [CV](files/cv.pdf) · [GitHub](https://github.com/Chang-Yu-Chang) · [Google Scholar](https://scholar.google.com/citations?user=g273Ts8AAAAJ&hl) · [BlueSky](https://bsky.app/profile/changyuchang.bsky.social)
 
+
+:::
 :::
 
-Chang-Yu (he/him) began his fascination with biology as an undergraduate and later earned a master’s degree in Ecology and Evolutionary Biology at National Taiwan University, where he studied beetle behavior. He then moved to the US for a PhD in Ecology and Evolutionary Biology at Yale University, where he investigated microbial community assembly and developed quantitative approaches to predict and engineer the emergent properties of microbial consortia. As a postdoctoral fellow in the Department of Biology at the University of Pennsylvania, he turned his focus to the evolution of host–symbiont systems. After several years on the East Coast, he returned to Taiwan in 2025 to join the Biodiversity Research Center at Academia Sinica as an Assistant Research Fellow.
+<br>
 
+---
 
 ::: {.columns}
-::: {.column width="35%"}
+::: {.column width="25%"}
 
-
-![](images/people/luna.jpg){.people-photo width="300" fig-alt="Luna"}
+![](images/people/luna.jpg){.people-photo width="500" fig-alt="Luna"}
 :::
 ::: {.column width="5%"}
 
 :::
-::: {.column width="60%"}
+::: {.column width="70%"}
 
-**Luna**  
-*Purrs-doctoral Researcher*  
+**Luna 嚕哪** &nbsp;&nbsp;&nbsp; *Purrs-doctoral Researcher*  
 
-Luna (she/her) is a scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true feline.
-
+Luna (she/her) is a dedicated scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true feline. Originally from the streets of Philadelphia, she discovered the joy of indoor life before traveling thousands of miles to settle on the rain-soaked island of Taiwan. 
 :::
+
+

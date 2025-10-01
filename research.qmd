@@ -1,56 +1,52 @@
+---
+title: "Research"
+format:
+  html:
+    page-layout: full
+---
 
-
-
-## Emergent coexistence & community assembly
-
-::: {.columns}
-::: {.column width="35%"}
-![](images/research/coexistence.png){fig-alt="Emergent coexistence illustration" width="600"}  
-
-:::
-::: {.column width="5%"}
-
-:::
-::: {.column width="60%"}
-Community diversity is often greater than what pairwise interactions would predict. Our work has shown that multispecies communities can persist even when pairs of species fail to coexist, a phenomenon called **emergent coexistence** (Chang et al 2023 Science). Building on this principle, we aim to develop **predictive frameworks** for community assembly — asking when species combinations will converge on repeatable outcomes, and when history or chance dominates.
-
-:::
-
-
-## Engineering microbiomes through artificial selection
-
-::: {.columns}
-::: {.column width="35%"}
-![](images/research/landscape.png){fig-alt="Community engineering illustration" width="600"}  
-
-
-:::
-::: {.column width="5%"}
-
-:::
-::: {.column width="60%"}
-
-Microbial communities can be treated as evolving units, subject to artificial selection.  
-
-In experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted (Chang et al 2020 Evolution). Our research identified strategies — stabilizing communities and perturbing ecological states — that extend this improvement (Chang et al 2021 Nat Ecol Evol). These insights point toward a **design framework for microbiome engineering**, where communities can be optimized for desired traits. 
-
-
-:::
-
-
-## Evolution of host–microbial systems
+## Evolution of Host–Microbe Symbiosis
 
 ::: {.columns}
 ::: {.column width="35%" height="30%"}
 ![](images/research/facultative.png){fig-alt="Host–symbiont systems illustration" width="600"}  
-
-
 :::
+
 ::: {.column width="5%"}
-
 :::
+
 ::: {.column width="60%"}
-
-Facultative symbionts live dual lives: free-living and host-associated. Using population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts. Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments (Chang et al 2025 bioRxiv).
-
+Facultative symbionts live dual lives: free-living and host-associated. It's therefore puzzling how and why these microbial symbionts maintain genomic integrity in the everchanging environments over evolutionary time. Using population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts. Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments (Chang et al 2025). 
 :::
+
+
+## Emergent Coexistence & Community Assembly
+
+::: {.columns}
+::: {.column width="30%"}
+![](images/research/coexistence.png){fig-alt="Emergent coexistence illustration" width="300"}  
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="60%"}
+One fundamental school of thoughts in ecology is the notion of interacting species pairs and its relation to coexistence and ecosystem functioning. However, the absurdly diverse ecosystems in nature challenge this pairwise, "bottom-up" perspective. Alternatively, mechanisms beyond pairwise must be involved. We experimentally showed that microbial communities can stably coexist despite that pairs of constituent species failed to do so (Chang et al 2023). This result unequivocally lended the support for the view that species coexistence is is an emergent property of ecological communities.
+:::
+
+
+## Engineering Microbiomes through Artificial Selection
+
+::: {.columns}
+::: {.column width="35%"}
+![](images/research/landscape.png){fig-alt="Community engineering illustration" width="600"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Microbial communities can be treated as evolving units, subject to artificial selection. As a proof of princple in experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted (Chang et al 2020). A further computational study identified key strategies, which invoke stabilizing communities and perturbing ecological states, that extend this improvement by replenishing the heritable variation (Chang et al 2021). These insights point toward a design framework for microbiome engineering, where any communities can be optimized for desired traits. 
+:::
+
+
