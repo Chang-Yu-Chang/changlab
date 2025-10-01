@@ -63,40 +63,6 @@ a:hover {
   max-width: 2000px;
 }
 
-
-/* force people photos into uniform squares */
-.person-entry {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  margin-bottom: 2rem;
-  gap: 1.5rem;  /* space between photo and text */
-}
-
-/* Photo on desktop: fixed, doesn’t stretch */
-.person-entry img.people-photo {
-  width: 220px;   /* adjust to taste */
-  height: 220px;
-  flex-shrink: 0;  /* prevent shrinking */
-  object-fit: cover;
-  border-radius: 6px;
-  border: 1px solid rgba(0,0,0,.06);
-}
-
-/* On mobile: stack vertically and shrink photo */
-@media (max-width: 768px) {
-  .person-entry {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .person-entry img.people-photo {
-    width: 150px;
-    height: 150px;
-    margin-bottom: 1rem;
-  }
-}
 /* reduce spacing between lines in publication entries */
 .pub-entry {
   margin-bottom: 2rem;   /* default is ~1rem */
@@ -129,4 +95,37 @@ a:hover {
 .pub-links a:hover {
   background-color: #007acc;
   color: #fff;
+}
+
+
+/* People page layout */
+.person-entry {
+  flex-direction: row;         /* side-by-side on desktop */
+  align-items: flex-start;
+  gap: 1.5rem;                 /* space between photo and text */
+  margin-bottom: 1rem;         /* space between people */
+}
+
+.person-entry img.people-photo {
+  flex: 0 0 auto;              /* don’t let the photo stretch */
+  width: 300px;                /* fixed size on desktop */
+  height: 300px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid rgba(0,0,0,.06);
+}
+
+/* Mobile view */
+@media (max-width: 768px) {
+  .person-entry {
+    flex-direction: column;    /* stack vertically */
+    align-items: center;       /* center the photo */
+    text-align: center;        /* optional: center text */
+  }
+
+  .person-entry img.people-photo {
+    width: 150px;              /* smaller size on mobile */
+    height: 150px;
+    margin-bottom: 1rem;       /* add space below photo */
+  }
 }
