@@ -2,26 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chang-yu-chang.github.io/changlab/people.html</loc>
-    <lastmod>2025-10-01T07:30:54.499Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chang-yu-chang.github.io/changlab/publications.html</loc>
-    <lastmod>2025-10-01T07:13:34.771Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chang-yu-chang.github.io/changlab/join.html</loc>
-    <lastmod>2025-10-01T06:20:24.743Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chang-yu-chang.github.io/changlab/research.html</loc>
-    <lastmod>2025-10-01T06:52:40.408Z</lastmod>
+    <lastmod>2025-10-01T08:07:44.238Z</lastmod>
   </url>
   <url>
     <loc>https://chang-yu-chang.github.io/changlab/index.html</loc>
     <lastmod>2025-10-01T06:52:58.766Z</lastmod>
   </url>
   <url>
-    <loc>https://chang-yu-chang.github.io/changlab/about.html</loc>
-    <lastmod>2025-09-08T16:40:36.147Z</lastmod>
+    <loc>https://chang-yu-chang.github.io/changlab/research.html</loc>
+    <lastmod>2025-10-01T06:52:40.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chang-yu-chang.github.io/changlab/join.html</loc>
+    <lastmod>2025-10-01T06:20:24.743Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chang-yu-chang.github.io/changlab/publications.html</loc>
+    <lastmod>2025-10-01T07:13:34.771Z</lastmod>
   </url>
 </urlset>

@@ -66,12 +66,30 @@ a:hover {
 
 /* force people photos into uniform squares */
 .people-photo {
-  width: 300px;           /* size of the square */
-  height: 300px;
-  object-fit: cover;      /* crop the image to fit */
-  border-radius: 0;       /* square corners */
+  object-fit: cover;
+  border-radius: 6px;    /* consistent with rest of site */
   border: 1px solid rgba(0,0,0,.06);
   margin-bottom: .5rem;
+  display: block;
+}
+
+.person-entry img.people-photo {
+  width: 250px;   /* or 200px if you prefer smaller */
+  height: 250px;
+}
+
+@media (max-width: 768px) {
+  .person-entry {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .person-entry img.people-photo {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 1rem;
+  }
 }
 
 /* reduce spacing between lines in publication entries */
