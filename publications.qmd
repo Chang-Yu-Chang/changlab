@@ -1,3 +1,6 @@
+--- 
+format: html
+---
 
 
 [Google Scholar profile](https://scholar.google.com/citations?user=g273Ts8AAAAJ&hl=en)
@@ -6,7 +9,7 @@
 
 ## Preprints
 
-::: {.pub-entry}
+::: {.pub-card}
 [Biogeographic and genomic signatures of thermal adaptation in facultative rhizobia](https://www.biorxiv.org/content/10.1101/2025.01.14.632453v2)
 
 <u>Chang CY\#</u>, Topping-Brown T, Rud J L, Calvert M B, Bencosme G, Wood C W\#.  
@@ -14,23 +17,21 @@
 **bioRxiv** (2025) doi:10.1101/2025.01.14.632453
 :::
 
-
 ## Journals
 
-::: {.pub-entry}
+
+::: {.pub-card}
 [7] [Emergent coexistence in multispecies microbial communities](https://doi.org/10.1126/science.adg8463)  
 
 <u>Chang CY\#</u>, Bajić D\#, Vila JCC, Estrela S, Sánchez Á\#.  
 
 **Science** (2023) 381(6655): 343–348
 
-::: {.pub-links}
 [X thread](https://x.com/changyu_chang/status/1528148925722550272)
 :::
-:::
 
 
-::: {.pub-entry}
+::: {.pub-card}
 [6] [Top-down and bottom-up cohesiveness in microbial community coalescence](https://doi.org/10.1073/pnas.2111261119)  
 
 Diaz-Colunga J\*, Lu N\*, Sanchez-Gorostiaga A\*, <u>Chang CY</u>, Cai H S, Goldford J E, Tikhonov M, Sánchez Á\#.  
@@ -38,7 +39,7 @@ Diaz-Colunga J\*, Lu N\*, Sanchez-Gorostiaga A\*, <u>Chang CY</u>, Cai H S, Gold
 **PNAS** (2022) 119(6): e2111261119
 :::
 
-::: {.pub-entry}
+::: {.pub-card}
 [5] [Functional attractors in microbial community assembly](https://doi.org/10.1016/j.cels.2021.11.005)  
 
 Estrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, <u>Chang CY</u>, Goldford J E, Sanchez-Gorostiaga A, Sánchez Á\#.  
@@ -46,19 +47,17 @@ Estrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, <u>Chang CY</u>, Goldfo
 **Cell Systems** (2022) 13(1): 29–42.e7
 :::
 
-::: {.pub-entry}
+::: {.pub-card}
 [4] [Engineering complex communities by directed evolution](https://doi.org/10.1038/s41559-021-01472-z)  
 
 <u>Chang CY\*</u>, Vila JCC\*, Bender M, Li R, Mankowski M C, Bassette M, Borden J, et al.  
 
 **Nature Ecology & Evolution** (2021) 5(7): 1011–1023
 
-::: {.pub-links}
 [X thread](https://x.com/changyu_chang/status/1287374313096712192) &nbsp; [News & Views by Silvia De Monte](https://www.nature.com/articles/s41559-021-01467-3)
 :::
-:::
 
-::: {.pub-entry}
+::: {.pub-card}
 [3] [Directed evolution of microbial communities](https://doi.org/10.1146/annurev-biophys-101220-114453)  
 
 Sánchez Á, Vila JCC, <u>Chang CY</u>, Diaz-Colunga J, Estrela S, Rebolleda-Gómez M.  
@@ -66,20 +65,18 @@ Sánchez Á, Vila JCC, <u>Chang CY</u>, Diaz-Colunga J, Estrela S, Rebolleda-Gó
 **Annual Review of Biophysics** (2021) 50: 323–341
 :::
 
-
-::: {.pub-entry}
+::: {.pub-card}
 [2] [Artificially selecting microbial communities using propagule strategies](https://doi.org/10.1101/2020.05.01.066282)
 
 <u>Chang CY\*</u>, Osborne M L\*, Bajić D, Sánchez Á.
 
 **Evolution**  (2020) 74 (10): 2392–2403
 
-::: {.pub-links}
+
 [X thread](https://x.com/changyu_chang/status/1303466860101296129) &nbsp; [Digest by S. Aggarwal in Evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14123?af=R)
 :::
-:::
 
-::: {.pub-entry}
+::: {.pub-card}
 [1] [Ecological effects of cellular computing in microbial populations](https://doi.org/10.1007/s11047-018-9688-5)
 
 Baskerville M\*, Biro A\*, Blazanin M\*, <u>Chang CY\*</u>, Hallworth A\*, Sonnert N\*, Vila JCC\*, Sánchez Á. 

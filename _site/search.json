@@ -21,32 +21,18 @@
     "text": "Evolution of Host–Microbe Symbiosis\n\nFacultative symbionts live dual lives: free-living and host-associated. It’s therefore puzzling how and why these microbial symbionts maintain genomic integrity in the everchanging environments over evolutionary time. Using population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts. Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments (Chang et al 2025).\n\n\nEmergent Coexistence & Community Assembly\n\nOne fundamental school of thoughts in ecology is the notion of interacting species pairs and its relation to coexistence and ecosystem functioning. However, the absurdly diverse ecosystems in nature challenge this pairwise, “bottom-up” perspective. Alternatively, mechanisms beyond pairwise must be involved. We experimentally showed that microbial communities can stably coexist despite that pairs of constituent species failed to do so (Chang et al 2023). This result unequivocally lended the support for the view that species coexistence is an emergent property of ecological communities.\n\n\nMicrobiome Engineering & Artificial Selection\n\nMicrobial communities can be treated as evolving units, subject to artificial selection. As a proof of principle in experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted (Chang et al 2020). A further computational study identified key strategies, which invoke stabilizing communities and perturbing ecological states, that extend this improvement by replenishing the heritable variation (Chang et al 2021). These insights point toward a design framework for microbiome engineering, where any communities can be optimized for desired traits."
   },
   {
-    "objectID": "research.html#evolution-of-hostmicrobe-symbiosis",
-    "href": "research.html#evolution-of-hostmicrobe-symbiosis",
-    "title": "Laboratory of Microbial Symbiosis, Ecology, and Evolution",
-    "section": "",
-    "text": "Facultative symbionts live dual lives: free-living and host-associated. It’s therefore puzzling how and why these microbial symbionts maintain genomic integrity in the everchanging environments over evolutionary time. Using population genomics and laboratory assays, we study how these multitudes of life stages shape the genetic diversity and divergence in microbial symbionts. Our work on host–symbiont systems explores how microbial symbionts adapt across hosts and environments (Chang et al 2025)."
-  },
-  {
-    "objectID": "research.html#emergent-coexistence-community-assembly",
-    "href": "research.html#emergent-coexistence-community-assembly",
-    "title": "Laboratory of Microbial Symbiosis, Ecology, and Evolution",
-    "section": "",
-    "text": "One fundamental school of thoughts in ecology is the notion of interacting species pairs and its relation to coexistence and ecosystem functioning. However, the absurdly diverse ecosystems in nature challenge this pairwise, “bottom-up” perspective. Alternatively, mechanisms beyond pairwise must be involved. We experimentally showed that microbial communities can stably coexist despite that pairs of constituent species failed to do so (Chang et al 2023). This result unequivocally lended the support for the view that species coexistence is an emergent property of ecological communities."
-  },
-  {
-    "objectID": "research.html#engineering-microbiomes-through-artificial-selection",
-    "href": "research.html#engineering-microbiomes-through-artificial-selection",
-    "title": "Laboratory of Microbial Symbiosis, Ecology, and Evolution",
-    "section": "",
-    "text": "Microbial communities can be treated as evolving units, subject to artificial selection. As a proof of principle in experimental evolution systems, we found that community function can be improved by selection until heritable variation is exhausted (Chang et al 2020). A further computational study identified key strategies, which invoke stabilizing communities and perturbing ecological states, that extend this improvement by replenishing the heritable variation (Chang et al 2021). These insights point toward a design framework for microbiome engineering, where any communities can be optimized for desired traits."
-  },
-  {
     "objectID": "join.html",
     "href": "join.html",
-    "title": "Join the Lab",
+    "title": "Join Us",
     "section": "",
-    "text": "Join the Lab\n\n\n\n\n\n\nOpportunities\n\n\n\nWe anticipate openings at multiple levels — including lab manager, graduate students, and postdocs.\nA formal job announcement with details will follow soon. Stay tuned!"
+    "text": "We welcome applications from motivated students, postdocs, and research staff who are excited about microbial symbiosis, ecology, and evolution. Our group values a collaborative and inclusive environment where curiosity and teamwork drive discovery.\nOur research spans community ecology, microbial ecology, and evolutionary genomics, combining genomics, experimental evolution, and ecological theory.\nIf you are interested in joining, please contact Dr. Chang-Yu Chang at changyuchang5@gmail.com with:"
+  },
+  {
+    "objectID": "join.html#opportunities",
+    "href": "join.html#opportunities",
+    "title": "Join Us",
+    "section": "Opportunities",
+    "text": "Opportunities\n\nLab Manager\nWe anticipate hiring a full-time lab manager to help establish and oversee the new lab at Academia Sinica. Responsibilities may include molecular microbiology, plant growth experiments, and lab operations. Previous research or management experience is highly valued.\n\n\nPostdoctoral Researchers\nInterested candidates should email a CV and a brief cover letter outlining:\n- Your research background\n- Your interest in microbial symbiosis, ecology, or related fields\n- Fellowship or grant opportunities you are considering\nWe are committed to supporting strong applicants in pursuing competitive postdoctoral fellowships.\n\n\nPhD Students\nPhD students are recruited through the Taiwan International Graduate Program (TIGP) – Biodiversity track.\n- The program offers a competitive stipend.\n- The next application period runs Nov 1, 2025 – Feb 1, 2026 for Fall 2026 admission.\n- More details: TIGP application portal\nProspective students are encouraged to reach out before applying.\n\n\nUndergraduate Students\nWe welcome undergraduates interested in gaining hands-on experience in ecology, evolution, and genomics. Please email your CV along with a short note about your interests.\nOpportunities may be available through Academia Sinica internship programs or university research fellowships."
   },
   {
     "objectID": "publications.html",
@@ -67,6 +53,6 @@
     "href": "publications.html#journals",
     "title": "Laboratory of Microbial Symbiosis, Ecology, and Evolution",
     "section": "Journals",
-    "text": "Journals\n\n[7] Emergent coexistence in multispecies microbial communities\nChang CY#, Bajić D#, Vila JCC, Estrela S, Sánchez Á#.\nScience (2023) 381(6655): 343–348\n\nX thread\n\n\n\n[6] Top-down and bottom-up cohesiveness in microbial community coalescence\nDiaz-Colunga J*, Lu N*, Sanchez-Gorostiaga A*, Chang CY, Cai H S, Goldford J E, Tikhonov M, Sánchez Á#.\nPNAS (2022) 119(6): e2111261119\n\n\n[5] Functional attractors in microbial community assembly\nEstrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, Chang CY, Goldford J E, Sanchez-Gorostiaga A, Sánchez Á#.\nCell Systems (2022) 13(1): 29–42.e7\n\n\n[4] Engineering complex communities by directed evolution\nChang CY*, Vila JCC*, Bender M, Li R, Mankowski M C, Bassette M, Borden J, et al. \nNature Ecology & Evolution (2021) 5(7): 1011–1023\n\nX thread   News & Views by Silvia De Monte\n\n\n\n[3] Directed evolution of microbial communities\nSánchez Á, Vila JCC, Chang CY, Diaz-Colunga J, Estrela S, Rebolleda-Gómez M.\nAnnual Review of Biophysics (2021) 50: 323–341\n\n\n[2] Artificially selecting microbial communities using propagule strategies\nChang CY*, Osborne M L*, Bajić D, Sánchez Á.\nEvolution (2020) 74 (10): 2392–2403\n\nX thread   Digest by S. Aggarwal in Evolution\n\n\n\n[1] Ecological effects of cellular computing in microbial populations\nBaskerville M*, Biro A*, Blazanin M*, Chang CY*, Hallworth A*, Sonnert N*, Vila JCC*, Sánchez Á.\nNatural Computing (2018) 17(4): 811–822."
+    "text": "Journals\n\n[7] Emergent coexistence in multispecies microbial communities\nChang CY#, Bajić D#, Vila JCC, Estrela S, Sánchez Á#.\nScience (2023) 381(6655): 343–348\nX thread\n\n\n[6] Top-down and bottom-up cohesiveness in microbial community coalescence\nDiaz-Colunga J*, Lu N*, Sanchez-Gorostiaga A*, Chang CY, Cai H S, Goldford J E, Tikhonov M, Sánchez Á#.\nPNAS (2022) 119(6): e2111261119\n\n\n[5] Functional attractors in microbial community assembly\nEstrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, Chang CY, Goldford J E, Sanchez-Gorostiaga A, Sánchez Á#.\nCell Systems (2022) 13(1): 29–42.e7\n\n\n[4] Engineering complex communities by directed evolution\nChang CY*, Vila JCC*, Bender M, Li R, Mankowski M C, Bassette M, Borden J, et al. \nNature Ecology & Evolution (2021) 5(7): 1011–1023\nX thread   News & Views by Silvia De Monte\n\n\n[3] Directed evolution of microbial communities\nSánchez Á, Vila JCC, Chang CY, Diaz-Colunga J, Estrela S, Rebolleda-Gómez M.\nAnnual Review of Biophysics (2021) 50: 323–341\n\n\n[2] Artificially selecting microbial communities using propagule strategies\nChang CY*, Osborne M L*, Bajić D, Sánchez Á.\nEvolution (2020) 74 (10): 2392–2403\nX thread   Digest by S. Aggarwal in Evolution\n\n\n[1] Ecological effects of cellular computing in microbial populations\nBaskerville M*, Biro A*, Blazanin M*, Chang CY*, Hallworth A*, Sonnert N*, Vila JCC*, Sánchez Á.\nNatural Computing (2018) 17(4): 811–822."
   }
 ]

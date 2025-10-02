@@ -4,9 +4,6 @@ format:
     page-layout: full
 ---
 
-
-
-
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}

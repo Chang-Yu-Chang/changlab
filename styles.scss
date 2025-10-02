@@ -29,8 +29,39 @@
   transform: scale(1.05);    /* slight zoom in */
   box-shadow: 0 8px 20px rgba(0,0,0,0.25); /* stronger shadow on hover */
 }
-/* Pad research into a square image */
+
+/* Pad research pic into a square image */
 .research-image {
   aspect-ratio: 1/1;
   object-fit: contain;
+  object-position: center;
+  background-color: #fff;    /* white background */
+  border-radius: 8px;
+}
+
+/* Publication cards */
+.pub-card {
+  background-color: var(--bs-primary-bg); /* light gray in light mode, dark gray in dark mode */
+  color: var(--bs-body-color);               /* adapts to light/dark */
+  border: 1px solid var(--bs-border-color);  /* adapts to light/dark */
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.pub-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: 0.2s;
+}
+
+/* Join us cards */
+.join-card {
+  background-color: var(--bs-primary-bg); /* light gray in light mode, dark gray in dark mode */
+  color: var(--bs-body-color);               /* adapts to light/dark */
+  border: 1px solid var(--bs-border-color);
+  border-radius: 8px;
+  padding: 0.5rem 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }

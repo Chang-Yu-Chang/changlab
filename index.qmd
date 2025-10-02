@@ -7,7 +7,7 @@ format:
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-![](images/index/logo.png){fig-alt="" width="300"}
+![](images/index/logo.png){.research-image}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
