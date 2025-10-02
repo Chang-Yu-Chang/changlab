@@ -15,19 +15,13 @@ website:
         href: publications.qmd
       - text: Join Us
         href: join.qmd
-  page-footer:
-    left: |
-      © {{< meta year >}} Chang Lab · Biodiversity Research Center, Academia Sinica
-    right: |
-      Built with <a href="https://quarto.org">Quarto</a>
 
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
-    css: styles.scss
-    toc: false
-    smooth-scroll: false
-
-year: 2025
+      light:
+        - flatly
+        - styles.scss
+      dark:
+        - darkly
+        - styles.scss

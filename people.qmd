@@ -1,13 +1,14 @@
 ---
-title: "People"
 format:
   html:
     page-layout: full
 ---
 
-::: {.person-entry}
-![](images/people/changyu.jpg){.people-photo fig-alt="Chang-Yu Chang"}
-<div>
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+![](images/people/changyu.jpg){.headshot-image}
 
 **Chang-Yu Chang 張昌祐**
 
@@ -21,15 +22,10 @@ Outside of science, Chang-Yu is an avid craft beer enthusiast. He’s always hap
 
 [CV](files/cv.pdf) · [GitHub](https://github.com/Chang-Yu-Chang) · [Google Scholar](https://scholar.google.com/citations?user=g273Ts8AAAAJ&hl) · [BlueSky](https://bsky.app/profile/changyuchang.bsky.social)
 
-
-</div>
 :::
 
----
-
-::: {.person-entry}
-![](images/people/luna.jpg){.people-photo width="500" fig-alt="Luna"}
-<div>
+:::{.g-col-12 .g-col-md-4}
+![](images/people/luna.jpg){.headshot-image}
 
 **Luna 嚕哪** 
 
@@ -37,7 +33,6 @@ Outside of science, Chang-Yu is an avid craft beer enthusiast. He’s always hap
 
 Luna (she/her) is a dedicated scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true feline. Originally from the streets of Philadelphia, she discovered the joy of indoor life before traveling thousands of miles to settle on the rain-soaked island of Taiwan. 
 
-</div>
 :::
 
 

@@ -1,8 +1,36 @@
 /*-- scss:defaults --*/
-// Base document colors
-// $body-bg: #181818;
-$body-bg: #000000;
-$body-color: #999999;
-$link-color: #75AADB;
+/* Make ### headers smaller */
+.g-col-12 h3,
+.g-col-md-4 h3 {
+  font-size: 1.1rem;   /* default is ~1.3–1.4rem depending on theme */
+  font-weight: 600;    /* keep them bold but not overwhelming */
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+  text-align: center;  /* optional: center under the image */
+  border-bottom: 2px solid #ddd;  /* horizontal line */
+  border-radius: 0.5rem;
+  color: var(--bs-primary);            /* primary text color (changes with theme) */
+  background-color: var(--bs-secondary-bg); /* background follows light/dark body */
+  padding: 0.75rem 1rem;   /* top/bottom = 0.75rem, sides = 1rem */
+}
 
-$navbar-bg: #999999;
+
+/* Crop headshot into a square image */
+.headshot-image {
+  aspect-ratio: 1/1;         /* keep square */
+  object-fit: cover;         /* fill the box without distortion */
+  object-position: center;   /* center the crop */
+  border-radius: 12px;       /* round corners */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15); /* subtle shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* smooth hover effect */
+}
+
+.headshot-image:hover {
+  transform: scale(1.05);    /* slight zoom in */
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25); /* stronger shadow on hover */
+}
+/* Pad research into a square image */
+.research-image {
+  aspect-ratio: 1/1;
+  object-fit: contain;
+}
