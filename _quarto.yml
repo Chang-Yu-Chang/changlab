@@ -25,10 +25,9 @@ format:
   html:
     theme:
       light: flatly
-      dark: slate
+      dark: darkly
     css: styles.scss
     toc: false
-    smooth-scroll: true
+    smooth-scroll: false
 
-# small variable to print the current year in footer
-metadata-files: [_variables.yml]
+year: 2025

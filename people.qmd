@@ -5,13 +5,10 @@ format:
     page-layout: full
 ---
 
-## Current members
-
 ::: {.person-entry}
-
 ![](images/people/changyu.jpg){.people-photo fig-alt="Chang-Yu Chang"}
-
 <div>
+
 **Chang-Yu Chang 張昌祐**
 
 *Principal Investigator*
@@ -31,15 +28,12 @@ Outside of science, Chang-Yu is an avid craft beer enthusiast. He’s always hap
 ---
 
 ::: {.person-entry}
-
 ![](images/people/luna.jpg){.people-photo width="500" fig-alt="Luna"}
-
 <div>
-
 
 **Luna 嚕哪** 
 
-*Purrs-doctoral Researcher*  
+*Purrs-doctoral Researcher*  &nbsp; | &nbsp; *Wellness manager*
 
 Luna (she/her) is a dedicated scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true feline. Originally from the streets of Philadelphia, she discovered the joy of indoor life before traveling thousands of miles to settle on the rain-soaked island of Taiwan. 
 
