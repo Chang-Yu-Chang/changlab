@@ -7,7 +7,7 @@ We welcome applications from motivated students, postdocs, and research staff wh
 
 Our research spans **community ecology**, **microbial ecology**, and **evolutionary genomics**, combining **genomics, experimental evolution, and ecological theory**.  
 
-If you are interested in joining, please contact **Dr. Chang-Yu Chang** at [changyuchang5@gmail.com](mailto:changyuchang5@gmail.com) with:  
+If you are interested in joining, please contact **Dr. Chang-Yu Chang** at [changlabbrc@gmail.com](mailto:changlabbrc@gmail.com) with:  
 
 - CV  
 - A summary of your past research or work experience  
@@ -15,7 +15,7 @@ If you are interested in joining, please contact **Dr. Chang-Yu Chang** at [chan
 
 ---
 
-::: {.callout-important}
+::: {.callout-note}
 Below are preliminary descriptions and expectations for each position.  
 Formal job postings with details on benefits and support will follow soon.
 :::
