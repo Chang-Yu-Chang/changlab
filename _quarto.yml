@@ -5,6 +5,7 @@ website:
   title: "Laboratory of Microbial Symbiosis, Ecology, and Evolution"
   site-url: "https://chang-yu-chang.github.io/changlab/"
   favicon: "images/index/logo.png"
+  google-analytics: "G-Q3LJHCQ46Q"
   navbar:
     right:
       - text: People

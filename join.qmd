@@ -7,7 +7,7 @@ We welcome applications from motivated students, postdocs, and research staff wh
 
 Our research spans **community ecology**, **microbial ecology**, and **evolutionary genomics**, drawing inspiration from **ecological and evolutionary theory**, **quantitative genetics**, and **systems biology**. In practice, our work often combines multiple approaches:
 
-![](images/icons/mac-option-key.svg){.icon} **Computations:** population genomics, simulations, phylogenetic comparative methods  
+![](images/icons/code.svg){.icon} **Computations:** population genomics, simulations, phylogenetic comparative methods  
 
 ![](images/icons/flask.svg){.icon}  **Laboratory experiments:** plant cultivation, microbiological cultures, metabolic assays
 
