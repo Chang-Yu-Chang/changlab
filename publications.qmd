@@ -3,7 +3,7 @@ format: html
 ---
 
 
-[Google Scholar profile](https://scholar.google.com/citations?user=g273Ts8AAAAJ&hl=en)
+[![](images/icons/google-scholar.svg){style="width:25px"} Google Scholar profile](https://scholar.google.com/citations?user=g273Ts8AAAAJ&hl=en)
 
 \# Co-corresponding authors.  *Co-1st authors.   
 
@@ -14,14 +14,14 @@ format: html
 
 <u>Chang CY\#</u>, Topping-Brown T, Rud J L, Calvert M B, Bencosme G, Wood C W\#.  
 
-**bioRxiv** (2025) doi:10.1101/2025.01.14.632453
+**bioRxiv** (2025) 
 :::
 
 ## Journals
 
 
 ::: {.pub-card}
-[7] [Emergent coexistence in multispecies microbial communities](https://doi.org/10.1126/science.adg8463)  
+[7] [Emergent coexistence in multispecies microbial communities](https://www.science.org/doi/10.1126/science.adg0727)  
 
 <u>Chang CY\#</u>, Bajić D\#, Vila JCC, Estrela S, Sánchez Á\#.  
 
@@ -32,7 +32,7 @@ format: html
 
 
 ::: {.pub-card}
-[6] [Top-down and bottom-up cohesiveness in microbial community coalescence](https://doi.org/10.1073/pnas.2111261119)  
+[6] [Top-down and bottom-up cohesiveness in microbial community coalescence](https://www.pnas.org/doi/10.1073/pnas.2111261119)  
 
 Diaz-Colunga J\*, Lu N\*, Sanchez-Gorostiaga A\*, <u>Chang CY</u>, Cai H S, Goldford J E, Tikhonov M, Sánchez Á\#.  
 
@@ -40,7 +40,7 @@ Diaz-Colunga J\*, Lu N\*, Sanchez-Gorostiaga A\*, <u>Chang CY</u>, Cai H S, Gold
 :::
 
 ::: {.pub-card}
-[5] [Functional attractors in microbial community assembly](https://doi.org/10.1016/j.cels.2021.11.005)  
+[5] [Functional attractors in microbial community assembly](https://www.sciencedirect.com/science/article/pii/S2405471221003793)  
 
 Estrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, <u>Chang CY</u>, Goldford J E, Sanchez-Gorostiaga A, Sánchez Á\#.  
 
@@ -48,7 +48,7 @@ Estrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, <u>Chang CY</u>, Goldfo
 :::
 
 ::: {.pub-card}
-[4] [Engineering complex communities by directed evolution](https://doi.org/10.1038/s41559-021-01472-z)  
+[4] [Engineering complex communities by directed evolution](https://www.nature.com/articles/s41559-021-01457-5)  
 
 <u>Chang CY\*</u>, Vila JCC\*, Bender M, Li R, Mankowski M C, Bassette M, Borden J, et al.  
 
@@ -58,7 +58,7 @@ Estrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, <u>Chang CY</u>, Goldfo
 :::
 
 ::: {.pub-card}
-[3] [Directed evolution of microbial communities](https://doi.org/10.1146/annurev-biophys-101220-114453)  
+[3] [Directed evolution of microbial communities](https://www.annualreviews.org/doi/10.1146/annurev-biophys-101220-072829)  
 
 Sánchez Á, Vila JCC, <u>Chang CY</u>, Diaz-Colunga J, Estrela S, Rebolleda-Gómez M.  
 
@@ -66,18 +66,17 @@ Sánchez Á, Vila JCC, <u>Chang CY</u>, Diaz-Colunga J, Estrela S, Rebolleda-Gó
 :::
 
 ::: {.pub-card}
-[2] [Artificially selecting microbial communities using propagule strategies](https://doi.org/10.1101/2020.05.01.066282)
+[2] [Artificially selecting microbial communities using propagule strategies](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14092)
 
 <u>Chang CY\*</u>, Osborne M L\*, Bajić D, Sánchez Á.
 
 **Evolution**  (2020) 74 (10): 2392–2403
 
-
 [X thread](https://x.com/changyu_chang/status/1303466860101296129) &nbsp; [Digest by S. Aggarwal in Evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14123?af=R)
 :::
 
 ::: {.pub-card}
-[1] [Ecological effects of cellular computing in microbial populations](https://doi.org/10.1007/s11047-018-9688-5)
+[1] [Ecological effects of cellular computing in microbial populations](https://link.springer.com/article/10.1007/s11047-018-9708-8)
 
 Baskerville M\*, Biro A\*, Blazanin M\*, <u>Chang CY\*</u>, Hallworth A\*, Sonnert N\*, Vila JCC\*, Sánchez Á. 
 
