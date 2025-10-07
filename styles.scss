@@ -65,3 +65,17 @@
   margin-bottom: 2rem;
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
+
+/* SVG icon cards */
+img.icon,
+svg.icon {
+  width: 30px;
+  margin-bottom: 0.2rem;
+  margin-right: 0.2rem;
+}
+
+/* Dark mode – invert for icons */
+body.quarto-dark svg.icon,
+body.quarto-dark img.icon {
+  filter: invert(1) brightness(1.2);
+}

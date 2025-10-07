@@ -3,53 +3,68 @@ title: "Join Us"
 format: html
 ---
 
-We welcome applications from motivated students, postdocs, and research staff who are excited about **microbial symbiosis, ecology, and evolution**. Our group values a collaborative and inclusive environment where curiosity and teamwork drive discovery.  
+We welcome applications from motivated students, postdocs, and research staff who are excited about **microbial symbiosis, ecology, and evolution**. Our group values every member of the team and strives to foster a **collaborative, inclusive, and curiosity-driven** environment where teamwork and creativity drive discovery.  
 
-Our research spans **community ecology**, **microbial ecology**, and **evolutionary genomics**, combining **genomics, experimental evolution, and ecological theory**.  
+Our research spans **community ecology**, **microbial ecology**, and **evolutionary genomics**, drawing inspiration from **ecological and evolutionary theory**, **quantitative genetics**, and **systems biology**. In practice, our work often combines multiple approaches:
 
-If you are interested in joining, please contact **Dr. Chang-Yu Chang** at [changlabbrc@gmail.com](mailto:changlabbrc@gmail.com) with:  
+![](images/icons/mac-option-key.svg){.icon} **Computations:** population genomics, simulations, phylogenetic comparative methods  
 
-- CV  
-- A summary of your past research or work experience  
-- A brief statement of your research interests  
+![](images/icons/flask.svg){.icon}  **Laboratory experiments:** plant cultivation, microbiological cultures, metabolic assays
+
+![](images/icons/soil-alt.svg){.icon}  **Field work:** transect and population sampling
+
+While no specific wet- or dry-lab background is required, trainees in the lab are encouraged to develop a versatile skill set that spans both experimental and computational methods.  
+
+If you are interested in joining, please contact **Dr. Chang-Yu Chang** at [changlabbrc@gmail.com](mailto:changlabbrc@gmail.com) with your **CV**, a short **summary of research experience**, and a brief **statement of interests**.
+
 
 ---
 
 ::: {.callout-note}
 Below are preliminary descriptions and expectations for each position.  
-Formal job postings with details on benefits and support will follow soon.
+Formal job announcements with details on benefits, application process, and support will be released soon.
 :::
 
 ## Opportunities
 
 ::: {.join-card}
-### Lab Manager
-We anticipate hiring a **full-time lab manager** to help establish and oversee the new lab at Academia Sinica. Responsibilities may include molecular microbiology, plant growth experiments, and lab operations. Previous research or management experience is highly valued.
+### ![](images/icons/group.svg){.icon}  Lab Manager
+
+We anticipate hiring a **full-time lab manager** to help establish and manage the lab at Academia Sinica. Responsibilities include coordinating daily operations and supporting ongoing research. 
+
+Prior research or management experience is an advantage, but enthusiasm for building a **collaborative and supportive environment** is most important.  
 :::
 
 ::: {.join-card}
-### Postdoctoral Researchers
-Interested candidates should email a CV and a brief cover letter outlining:  
-- Your research background  
-- Your interest in microbial symbiosis, ecology, or related fields  
-- Fellowship or grant opportunities you are considering  
+### ![](images/icons/server-connection.svg){.icon} Postdoc
 
-We are committed to supporting strong applicants in pursuing competitive postdoctoral fellowships.
+We invite applications from postdoctoral researchers interested in microbial symbiosis, ecology, or evolutionary genomics.  
+
+Please provide a **CV** and a short **cover letter** describing: 
+
+- Your research background and accomplishments  
+- How your interests align with the lab’s themes  
+- Any fellowship or grant opportunities you plan to pursue  
 :::
 
 ::: {.join-card}
-### PhD Students
-PhD students are recruited through the **Taiwan International Graduate Program (TIGP) – Biodiversity track**.  
-- The program offers a competitive stipend.  
+### ![](images/icons/vials-solid.svg){.icon} PhD Student
+
+PhD students are recruited through the [Taiwan International Graduate Program (TIGP)](https://tigp.sinica.edu.tw/).  
+
+- The program provides a competitive stipend.  
 - The next application period runs **Nov 1, 2025 – Feb 1, 2026** for Fall 2026 admission.  
-- More details: [TIGP application portal](https://tigp.apps.sinica.edu.tw/)  
+- More details: [TIGP Application Portal](https://tigp.apps.sinica.edu.tw/)  
 
-Prospective students are encouraged to reach out before applying.
+Prospective students are encouraged to reach out before applying to discuss research interests and potential projects.
 :::
 
 ::: {.join-card}
-### Undergraduate Students
-We welcome undergraduates interested in gaining hands-on experience in **ecology, evolution, and genomics**. Please email your CV along with a short note about your interests.  
+### ![](images/icons/graduation-cap.svg){.icon} Undergraduate
 
-Opportunities may be available through Academia Sinica internship programs or university research fellowships.
+We welcome motivated undergraduates interested in gaining hands-on experience in **ecology**, **evolution**, or **symbiosis**.  
+
+Please email your **CV** and a short note describing your interests and goals.  
+
+Opportunities may be available through AS-BRC’s [summer internship program](https://biodiv.tw/Summer_Internship) or university research fellowships.
 :::
