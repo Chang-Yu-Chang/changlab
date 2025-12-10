@@ -1,4 +1,9 @@
 /*-- scss:defaults --*/
+.grid {
+  grid-row-gap: 0rem;    /* vertical space between rows */
+  gridcolumn-gap: 0rem;   /* horizontal space between columns */
+}
+
 /* Make ### headers smaller */
 .g-col-12 h3,
 .g-col-md-4 h3 {
@@ -32,11 +37,11 @@
 
 /* Pad research pic into a square image */
 .research-image {
-  aspect-ratio: 1/1;
   object-fit: contain;
   object-position: center;
   background-color: #fff;    /* white background */
-  border-radius: 8px;
+  border-radius: 0px;
+  margin-bottom: 0;
 }
 
 /* Publication cards */

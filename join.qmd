@@ -28,11 +28,10 @@ Formal job announcements with details on benefits, application process, and supp
 ## Opportunities
 
 ::: {.join-card}
-### ![](images/icons/group.svg){.icon}  Lab Manager
+### ![](images/icons/group.svg){.icon}  Research Assistant
 
-We anticipate hiring a **full-time lab manager** to help establish and manage the lab at Academia Sinica. Responsibilities include coordinating daily operations and supporting ongoing research. 
+We anticipate hiring 1-2 **full-time Research Assistant** to help daily operation and supporting the research. Please see the job post for more details.
 
-Prior research or management experience is an advantage, but enthusiasm for building a **collaborative and supportive environment** is most important.  
 :::
 
 ::: {.join-card}

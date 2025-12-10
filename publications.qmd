@@ -9,15 +9,16 @@ format: html
 
 ## Preprints
 
+
+## Journals
+
 ::: {.pub-card}
-[Biogeographic and genomic signatures of thermal adaptation in facultative rhizobia](https://www.biorxiv.org/content/10.1101/2025.01.14.632453v2)
+[8] [Biogeographic and genomic signatures of thermal adaptation in facultative rhizobia](https://www.biorxiv.org/content/10.1101/2025.01.14.632453v2)
 
 <u>Chang CY\#</u>, Topping-Brown T, Rud J L, Calvert M B, Bencosme G, Wood C W\#.  
 
-**bioRxiv** (2025) 
+**Microbial Ecology** (in press) 
 :::
-
-## Journals
 
 
 ::: {.pub-card}
