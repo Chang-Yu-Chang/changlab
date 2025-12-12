@@ -18,19 +18,15 @@ While no specific wet- or dry-lab background is required, trainees in the lab ar
 If you are interested in joining, please contact **Dr. Chang-Yu Chang** at [changyuchang@gate.sinica.edu.tw](mailto:changyuchang@gate.sinica.edu.tw) with your **CV**, a short **summary of research experience**, and a brief **statement of interests**.
 
 
----
-
-::: {.callout-note}
-Below are preliminary descriptions and expectations for each position.  
-Formal job announcements with details on benefits, application process, and support will be released soon.
-:::
 
 ## Opportunities
 
 ::: {.join-card}
 ### ![](images/icons/group.svg){.icon}  Research Assistant
 
-We anticipate hiring 1-2 **full-time Research Assistant** to help daily operation and supporting the research. Please see the job post for more details.
+We anticipate hiring 1-2 **full-time Research Assistant** to help daily operation and supporting the research. 
+
+Please see the [job post](join/hr-002-RA.md) for more details.
 
 :::
 
@@ -39,11 +35,7 @@ We anticipate hiring 1-2 **full-time Research Assistant** to help daily operatio
 
 We invite applications from postdoctoral researchers interested in microbial symbiosis, ecology, or evolutionary genomics.  
 
-Please provide a **CV** and a short **cover letter** describing: 
-
-- Your research background and accomplishments  
-- How your interests align with the lab’s themes  
-- Any fellowship or grant opportunities you plan to pursue  
+Please see the [job post](join/hr-003-postdoc.md) for more details.
 :::
 
 ::: {.join-card}
