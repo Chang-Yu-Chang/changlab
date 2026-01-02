@@ -6,7 +6,7 @@ format:
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-md-4 .g-col-12}
 ### Evolution of Host–Microbe Symbiosis
 ![](images/research/facultative.png){.research-image}
 
@@ -23,7 +23,7 @@ format:
 Facultative symbionts alternate between host-associated and free-living stages. We study how environmental adaptation outside the host drives genomic divergence and population structure, providing new insights into the evolution of microbial symbiosis.
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-md-4 .g-col-12}
 ### Emergent Coexistence & Community Assembly
 ![](images/research/coexistence.png){.research-image}
 
@@ -40,7 +40,7 @@ Facultative symbionts alternate between host-associated and free-living stages. 
 We combine experiments and theory to explore how stability emerges from complex microbial interactions. Our results reveal that coexistence is not reducible to pairwise outcomes but is an emergent, collective feature of multispecies communities.
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-md-4 .g-col-12}
 ### Microbiome Engineering & Artificial Selection
 ![](images/research/landscape.png){.research-image}
 

@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 .grid {
   grid-row-gap: 0rem;    /* vertical space between rows */
-  gridcolumn-gap: 0rem;   /* horizontal space between columns */
+  grid-column-gap: 0rem;   /* horizontal space between columns */
 }
 
 /* Make ### headers smaller */
@@ -48,10 +48,14 @@
 
 /* Pad pics into a square image */
 .photo-image {
-  background-color: #fff;    /* white background */
-  border-radius: 30px;
-  margin-bottom: 0;
-  margin-top: 0;
+  width: 100%;              /* fill column width */
+  height: auto;             /* maintain image aspect ratio */
+  display: block;           /* removes inline gap below images */
+  object-fit: cover;        /* fill nicely */
+  object-position: center;
+  border-radius: 8px;       /* optional: rounded corners */
+  background-color: #fff;   /* fallback background */
+  margin: 0;                /* remove extra whitespace */
 }
 
 /* Publication cards */
