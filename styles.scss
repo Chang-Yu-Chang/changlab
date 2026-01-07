@@ -27,6 +27,7 @@
   object-position: center;   /* center the crop */
   border-radius: 12px;       /* round corners */
   box-shadow: 0 4px 10px rgba(0,0,0,0.15); /* subtle shadow */
+  padding: 25px;             /* adds equal padding on all 4 sides */
   transition: transform 0.3s ease, box-shadow 0.3s ease; /* smooth hover effect */
 }
 

@@ -25,11 +25,26 @@ Outside of science, Chang-Yu is an avid craft beer enthusiast. He’s always hap
 :::
 
 :::{.g-col-12 .g-col-md-4}
+
+![](images/people/tzuhsin.jpg){.headshot-image}
+
+**Tzu-Hsin Ku 顧子欣** 
+
+*BIODIV TIGP Graduate Student* 
+
+Tzu-Hsin (he/him) is fascinated by the diverse and essential roles of microbiota in sustaining environmental balance. His graduate research on the bacterial microbiome in food deepened his curiosity to this field. Although his thesis focused on characterizing bacteria from food samples, he also pursued additional training in yeast epigenetics to strengthen his molecular understanding of biological questions. Beyond the world of microbes and molecules, Tzu-Hsin is a beginner marathon participant. He is happy to go jogging together, as long as you can wait for him for a minute.
+
+:::
+
+
+
+:::{.g-col-12 .g-col-md-4}
 ![](images/people/luna.jpg){.headshot-image}
 
 **Luna 嚕哪** 
 
 *Wellness Manager*  &nbsp; | &nbsp; *Purrs-doctoral Researcher*
+
 
 Luna (she/her) is a dedicated scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true feline. Originally from the streets of Philadelphia, she discovered the joy of indoor life before traveling thousands of miles to settle on the rain-soaked island of Taiwan. 
 
