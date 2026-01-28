@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://chang-yu-chang.github.io/changlab/UPDATE_GUIDE.html</loc>
+    <lastmod>2026-01-28T05:47:04.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chang-yu-chang.github.io/changlab/publications.html</loc>
+    <lastmod>2026-01-28T05:52:04.060Z</lastmod>
+  </url>
+  <url>
     <loc>https://chang-yu-chang.github.io/changlab/people.html</loc>
-    <lastmod>2026-01-20T04:59:25.192Z</lastmod>
+    <lastmod>2026-01-28T05:56:39.866Z</lastmod>
   </url>
   <url>
     <loc>https://chang-yu-chang.github.io/changlab/index.html</loc>
-    <lastmod>2026-01-02T04:19:09.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chang-yu-chang.github.io/changlab/join/hr-003-postdoc.html</loc>
-    <lastmod>2025-12-12T02:09:41.918Z</lastmod>
+    <lastmod>2026-01-28T05:55:14.182Z</lastmod>
   </url>
   <url>
     <loc>https://chang-yu-chang.github.io/changlab/research.html</loc>
     <lastmod>2026-01-07T02:35:03.987Z</lastmod>
   </url>
   <url>
-    <loc>https://chang-yu-chang.github.io/changlab/join/hr-002-RA.html</loc>
-    <lastmod>2025-12-12T02:10:48.754Z</lastmod>
-  </url>
-  <url>
     <loc>https://chang-yu-chang.github.io/changlab/join.html</loc>
     <lastmod>2025-12-12T02:11:21.873Z</lastmod>
-  </url>
-  <url>
-    <loc>https://chang-yu-chang.github.io/changlab/publications.html</loc>
-    <lastmod>2025-12-23T06:27:09.310Z</lastmod>
   </url>
 </urlset>
