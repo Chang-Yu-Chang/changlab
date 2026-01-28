@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>publications – Laboratory of Microbial Symbiosis, Ecology, and Evolution</title>
+<title>update_guide – Laboratory of Microbial Symbiosis, Ecology, and Evolution</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -274,7 +309,7 @@ gtag('config', 'G-Q3LJHCQ46Q', { 'anonymize_ip': true});
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+    <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -301,58 +336,55 @@ gtag('config', 'G-Q3LJHCQ46Q', { 'anonymize_ip': true});
 
 
 
-<p><a href="https://scholar.google.com/citations?user=g273Ts8AAAAJ&amp;hl=en"><img src="images/icons/google-scholar.svg" class="img-fluid" style="width:25px"> Google Scholar profile</a></p>
-<p># Co-corresponding authors. *Co-1st authors.</p>
-<section id="preprints" class="level2">
-<h2 class="anchored" data-anchor-id="preprints">Preprints</h2>
+<section id="quick-update-guide" class="level2">
+<h2 class="anchored" data-anchor-id="quick-update-guide">Quick Update Guide</h2>
+<section id="add-a-team-member" class="level3">
+<h3 class="anchored" data-anchor-id="add-a-team-member">Add a Team Member</h3>
+<p>Edit <code>_data/people.yml</code> and add:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">-</span><span class="at"> </span><span class="fu">name</span><span class="kw">:</span><span class="at"> </span><span class="st">"First Last"</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">name_zh</span><span class="kw">:</span><span class="at"> </span><span class="st">"Chinese Name"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">role</span><span class="kw">:</span><span class="at"> </span><span class="st">"Position Title"</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">pronouns</span><span class="kw">:</span><span class="at"> </span><span class="st">"he/him"</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">image</span><span class="kw">:</span><span class="at"> </span><span class="st">"images/people_firstname.jpg"</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">bio</span><span class="kw">:</span><span class="at"> </span><span class="st">"Bio text here"</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">outside_science</span><span class="kw">:</span><span class="at"> </span><span class="st">"Optional personal interests"</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">email</span><span class="kw">:</span><span class="at"> </span><span class="st">"email@sinica.edu.tw"</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">links</span><span class="kw">:</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">label</span><span class="kw">:</span><span class="at"> </span><span class="st">"GitHub"</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">url</span><span class="kw">:</span><span class="at"> </span><span class="st">"https://github.com/username"</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">label</span><span class="kw">:</span><span class="at"> </span><span class="st">"CV"</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">url</span><span class="kw">:</span><span class="at"> </span><span class="st">"files/cv.pdf"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="journals" class="level2">
-<h2 class="anchored" data-anchor-id="journals">Journals</h2>
-<div class="pub-card">
-<p>[8] <a href="https://link.springer.com/article/10.1007/s00248-025-02678-y">Biogeographic and genomic signatures of thermal adaptation in facultative rhizobia</a></p>
-<p><u>Chang CY</u>#, Topping-Brown T, Rud J L, Calvert M B, Bencosme G, Wood C W#</p>
-<p><strong>Microbial Ecology</strong> (2025)</p>
-</div>
-<div class="pub-card">
-<p>[7] <a href="https://www.science.org/doi/10.1126/science.adg0727">Emergent coexistence in multispecies microbial communities</a></p>
-<p><u>Chang CY</u>#, Bajić D#, Vila JCC, Estrela S, Sánchez Á#</p>
-<p><strong>Science</strong> (2023) 381: 343–348</p>
-<p><a href="https://x.com/changyu_chang/status/1528148925722550272">X thread</a></p>
-</div>
-<div class="pub-card">
-<p>[6] <a href="https://www.pnas.org/doi/10.1073/pnas.2111261119">Top-down and bottom-up cohesiveness in microbial community coalescence</a></p>
-<p>Diaz-Colunga J*, Lu N*, Sanchez-Gorostiaga A*, <u>Chang CY</u>, Cai H S, Goldford J E, Tikhonov M, Sánchez Á#</p>
-<p><strong>PNAS</strong> (2022) 119: e2111261119</p>
-</div>
-<div class="pub-card">
-<p>[5] <a href="https://www.sciencedirect.com/science/article/pii/S2405471221003793">Functional attractors in microbial community assembly</a></p>
-<p>Estrela S, Vila JCC, Lu N, Bajić D, Rebolleda-Gómez M, <u>Chang CY</u>, Goldford J E, Sanchez-Gorostiaga A, Sánchez Á#</p>
-<p><strong>Cell Systems</strong> (2022) 13: 29–42.e7</p>
-</div>
-<div class="pub-card">
-<p>[4] <a href="https://www.nature.com/articles/s41559-021-01457-5">Engineering complex communities by directed evolution</a></p>
-<p><u>Chang CY</u>*, Vila JCC*, Bender M, Li R, Mankowski M C, Bassette M, Borden J, et al.</p>
-<p><strong>Nature Ecology &amp; Evolution</strong> (2021) 5: 1011–1023</p>
-<p><a href="https://x.com/changyu_chang/status/1287374313096712192">X thread</a> &nbsp; <a href="https://www.nature.com/articles/s41559-021-01467-3">News &amp; Views by Silvia De Monte</a></p>
-</div>
-<div class="pub-card">
-<p>[3] <a href="https://www.annualreviews.org/doi/10.1146/annurev-biophys-101220-072829">Directed evolution of microbial communities</a></p>
-<p>Sánchez Á, Vila JCC, <u>Chang CY</u>, Diaz-Colunga J, Estrela S, Rebolleda-Gómez M</p>
-<p><strong>Annual Review of Biophysics</strong> (2021) 50: 323–341</p>
-</div>
-<div class="pub-card">
-<p>[2] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.14092">Artificially selecting microbial communities using propagule strategies</a></p>
-<p><u>Chang CY</u>*, Osborne M L*, Bajić D, Sánchez Á</p>
-<p><strong>Evolution</strong> (2020) 74: 2392–2403</p>
-<p><a href="https://x.com/changyu_chang/status/1303466860101296129">X thread</a> &nbsp; <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/evo.14123?af=R">Digest by S. Aggarwal in Evolution</a></p>
-</div>
-<div class="pub-card">
-<p>[1] <a href="https://link.springer.com/article/10.1007/s11047-018-9708-8">Ecological effects of cellular computing in microbial populations</a></p>
-<p>Baskerville M*, Biro A*, Blazanin M*, <u>Chang CY</u>*, Hallworth A*, Sonnert N*, Vila JCC*, Sánchez Á</p>
-<p><strong>Natural Computing</strong> (2018) 17: 811–822</p>
-</div>
+<section id="add-a-publication" class="level3">
+<h3 class="anchored" data-anchor-id="add-a-publication">Add a Publication</h3>
+<p>Edit <code>_data/publications.yml</code> and add:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">-</span><span class="at"> </span><span class="fu">id</span><span class="kw">:</span><span class="at"> </span><span class="dv">9</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Paper Title"</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">authors</span><span class="kw">:</span><span class="at"> </span><span class="st">"&lt;u&gt;Your Name&lt;/u&gt;, Co-Author Name"</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">journal</span><span class="kw">:</span><span class="at"> </span><span class="st">"Journal Name"</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">year</span><span class="kw">:</span><span class="at"> </span><span class="dv">2026</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">volume</span><span class="kw">:</span><span class="at"> </span><span class="dv">10</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">issue</span><span class="kw">:</span><span class="at"> </span><span class="st">"2"</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">pages</span><span class="kw">:</span><span class="at"> </span><span class="st">"123–145"</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">url</span><span class="kw">:</span><span class="at"> </span><span class="st">"https://doi.org/..."</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">threads</span><span class="kw">:</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">url</span><span class="kw">:</span><span class="at"> </span><span class="st">"https://x.com/..."</span></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">label</span><span class="kw">:</span><span class="at"> </span><span class="st">"X thread"</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">notes</span><span class="kw">:</span></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">url</span><span class="kw">:</span><span class="at"> </span><span class="st">"https://..."</span></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">label</span><span class="kw">:</span><span class="at"> </span><span class="st">"Coverage"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="remove-old-image-folders" class="level3">
+<h3 class="anchored" data-anchor-id="remove-old-image-folders">Remove Old Image Folders</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> images</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">rmdir</span> people/</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">rmdir</span> index/</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">rmdir</span> index/deprecated/</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="fu">rmdir</span> research/  <span class="co"># if empty</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><strong>That’s it!</strong> Pages regenerate automatically when you rebuild the site.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
