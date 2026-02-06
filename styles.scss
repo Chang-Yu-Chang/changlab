@@ -54,9 +54,13 @@
   display: block;           /* removes inline gap below images */
   object-fit: cover;        /* fill nicely */
   object-position: center;
-  border-radius: 8px;       /* optional: rounded corners */
+  border-radius: 20px;       /* optional: rounded corners */
   background-color: #fff;   /* fallback background */
   margin: 0;                /* remove extra whitespace */
+  /* centering behavior */
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 /* Publication cards */

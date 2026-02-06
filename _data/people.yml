@@ -5,7 +5,7 @@
   image: "images/people/changyu.jpg"
   bio: "Chang-Yu (he/him) is fascinated by the system-level properties that emerge across different levels of biological organization, particularly as the result of species interactions and evolutionary forces. As an evolutionary ecologist, he enjoys collaborating with field ecologists, theoreticians, and systems biologists. Chang-Yu received his PhD in Ecology and Evolutionary Biology at Yale University, where he studied the emergent properties of microbial consortia with [Álvaro Sánchez](https://sanchezlaboratory.weebly.com/). He then joined the University of Pennsylvania as a postdoctoral fellow, investigating the evolution of plant–microbe symbiosis with [Corlett Wood](https://www.the-wood-lab.com/), before joining the Biodiversity Research Center, Academia Sinica."
   outside_science: "Outside of science, Chang-Yu is an avid craft beer enthusiast. He's always happy to chat about microbes and fermentation. You can find his latest drinking notes on [Untappd](https://untappd.com/user/changyu)."
-  email: "changyuchang@gate.sinica.edu.tw"
+  email: "changyuchang@as.edu.tw"
   links:
     - label: "CV"
       url: "files/cv.pdf"
@@ -15,6 +15,8 @@
       url: "https://scholar.google.com.tw/citations?user=ZM8OhgEAAAAJ&hl=en&oi=sra"
     - label: "BlueSky"
       url: "https://bsky.app/profile/changyuchang.bsky.social"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/chang-yu-chang-14bb199a/"
 
 - name: "Tzu-Hsin Ku"
   name_zh: "顧子欣"
@@ -41,7 +43,7 @@
   role: "Wellness Manager & Purrs-doctoral Researcher"
   pronouns: "she/her"
   image: "images/people/luna.jpg"
-  bio: "Luna (she/her) is a dedicated scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true feline. Originally from the streets of Philadelphia, she discovered the joy of indoor life before traveling thousands of miles to settle on the rain-soaked island of Taiwan. Luna mostly works from home; so nope, you won't see her in the lab."
+  bio: "Luna (she/her) is a dedicated scholar of cuteness, with her primary subject being herself. She embodies the charming narcissism of a true feline. Originally from the streets of Philadelphia, she discovered the joy of indoor life before traveling thousands of miles to settle on the rain-soaked island of Taiwan. Luna works from home; so nope, you won't see her in the lab."
   outside_science: ""
   email: ""
   links: []

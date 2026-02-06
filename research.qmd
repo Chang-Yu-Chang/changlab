@@ -6,6 +6,41 @@ format:
 
 ::: {.grid}
 
+::: {.g-col-md-12 .g-col-12}
+### Studying the microbial symbiosis in its natural context
+:::
+
+::: {.g-col-md-7 .g-col-12}
+
+Species are not independent. They are shaped by the _ecological interdependence_ among members of their communities and the _evolutionary history_ from which they arise. The interplay between Ecology and Evolution gives rise to the biodiversity we observe in nature, with interactions spanning multiple levels of biological organization, from genes to populations to communities.
+
+A central question we ask is to what extent this diversity is driven by 
+
+- _deterministic processes_, such as natural selection and environmental filtering
+- _stochastic processes_, such as historical contingency and genetic drift. 
+
+Plant–microbe symbioses, together with mobile symbiosis genes, provide a clear example of such interdependent systems. In the legume–rhizobium–MGE (mobile genetic element) system, diversity emerges at each level, including host species and genotypes, rhizobial species and strains, and sequence and structural variation in MGEs.
+:::
+
+::: {.g-col-md-5 .g-col-12}
+![](images/research/cartoon.png){.research-image}
+:::
+
+::: {.g-col-md-3 .g-col-12 .text-center}
+![_Grona triflora_ 蠅翼草 (white) and _Grona heterphylla_ 異葉山螞蝗 (purple)](images/research/pics/grona.jpg){.photo-image}
+:::
+
+::: {.g-col-md-8 .g-col-12}
+We study a legume system native to Taiwan, the genus _Grona_ 山螞蝗屬, and its associated rhizobial symbionts.
+
+- _Grona_ species are widely distributed across low-elevation regions of Taiwan
+- They are common in urban, agricultural, and semi-natural environments
+- They form symbioses with diverse rhizobial taxa, including _Bradyrhizobium_, _Rhizobium_, and _Sinorhizobium_
+
+Together, this system provides a natural framework for studying how symbiosis evolves and functions across heterogeneous environments, including those shaped by human activity.
+:::
+
+
 ::: {.g-col-md-4 .g-col-12}
 ### Evolution of Host–Microbe Symbiosis
 ![](images/research/facultative.png){.research-image}
@@ -56,5 +91,38 @@ We combine experiments and theory to explore how stability emerges from complex 
 
 We treat microbial consortia as evolving entities, subject to artificial selection on desired community traits. By combining experimental evolution and modeling, we develop frameworks for optimizing microbiome function and stability.
 :::
+
+
+::: {.g-col-md-12 .g-col-12}
+### Studying Plants and Microbes Be Like: 
+:::
+
+::: {.g-col-md-4 .g-col-12 .text-center}
+![*Medicago lupulina* in the city](images/research/pics/medicago3.jpg){.photo-image}
+
+![Growth chamber manipulation](images/research/pics/medicago1.jpg){.photo-image}
+
+![Field manipulation](images/research/pics/medicago2.jpg){.photo-image}
+:::
+
+::: {.g-col-md-4 .g-col-12 .text-center}
+![Planning for 96-well plate layout](images/research/pics/layout.jpg){.photo-image}
+
+![Good old-fashioned plating](images/research/pics/plating.jpg){.photo-image}
+
+![96-well nunc plate](images/research/pics/nunc.jpg){.photo-image}
+
+![Computer vision for colony quantification](images/research/pics/imaging.png){.photo-image}
+:::
+
+::: {.g-col-md-4 .g-col-12 .text-center}
+![Soil sample as a starter inoculum](images/research/pics/farmer.jpg){.photo-image}
+
+![From the draft pipeline of a python package...](images/research/pics/pipeline.jpg){.photo-image}
+
+![... to a complete pipeline](images/research/pics/ecoprospector.png){.photo-image}
+
+:::
+
 
 :::
