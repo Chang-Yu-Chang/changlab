@@ -17,7 +17,7 @@ Species are not independent. They are shaped by the _ecological interdependence_
 A central question we ask is to what extent this diversity is driven by 
 
 - _deterministic processes_, such as natural selection and environmental filtering
-- _stochastic processes_, such as historical contingency and genetic drift. 
+- _stochastic processes_, such as historical contingency and genetic drift
 
 Plant–microbe symbioses, together with mobile symbiosis genes, provide a clear example of such interdependent systems. In the legume–rhizobium–MGE (mobile genetic element) system, diversity emerges at each level, including host species and genotypes, rhizobial species and strains, and sequence and structural variation in MGEs.
 :::
@@ -31,7 +31,7 @@ Plant–microbe symbioses, together with mobile symbiosis genes, provide a clear
 :::
 
 ::: {.g-col-md-8 .g-col-12}
-We study a legume system native to Taiwan, the genus _Grona_ 山螞蝗屬, and its associated rhizobial symbionts.
+We study a legume system native to Taiwan, the genus _Grona_ 假地豆屬, and its associated rhizobial symbionts.
 
 - _Grona_ species are widely distributed across low-elevation regions of Taiwan
 - They are common in urban, agricultural, and semi-natural environments
