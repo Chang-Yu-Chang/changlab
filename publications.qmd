@@ -9,7 +9,7 @@ library(yaml)
 pubs <- read_yaml("_data/publications.yml")
 ```
 
-[![](images/icons/google-scholar.svg){style="width:25px"} Google Scholar profile](https://scholar.google.com/citations?user=g273Ts8AAAAJ&hl=en)
+[![](images/icons/google-scholar.svg){style="width:25px"} Google Scholar profile](https://scholar.google.com/citations?hl=en&authuser=1&user=ZM8OhgEAAAAJ)
 
 \# Co-corresponding authors.  *Co-1st authors.   
 
