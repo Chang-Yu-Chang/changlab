@@ -25,8 +25,19 @@
   image: "images/people/tzuhsin.jpg"
   bio: "Tzu-Hsin (he/him) is fascinated by the diverse and essential roles of microbiota in sustaining environmental balance. His graduate research on the bacterial microbiome in food deepened his curiosity to this field. Although his thesis focused on characterizing bacteria from food samples, he also pursued additional training in yeast epigenetics to strengthen his molecular understanding of biological questions. Beyond the world of microbes and molecules, Tzu-Hsin is a beginner marathon participant. He is happy to go jogging together, as long as you can wait for him for a minute."
   outside_science: ""
-  email: ""
+  email: "tzuhsin753@as.edu.tw"
   links: []
+
+- name: "Hilary Szu Yin Shiue"
+  name_zh: "薛絲尹"
+  role: "Research Assistant"
+  pronouns: "she/her"
+  image: "images/people/hilary.jpg"
+  bio: "Hilary Szu Yin Shiue (she/her) is interested in biodiversity, information, and the relationships that shape our world. Trained in archival science and sociology, she has worked on research data management and digital preservation in interdisciplinary research settings. She currently works as a Research Assistant supporting field sampling and laboratory data management while transitioning toward biodiversity research"
+  outside_science: ""
+  email: "hshiue@as.edu.tw"
+  links: []
+
 
 - name: "Kuan-Fen Lai"
   name_zh: "賴冠吩"

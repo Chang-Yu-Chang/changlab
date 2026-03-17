@@ -10,7 +10,7 @@ format:
 ### Studying the microbial symbiosis in its natural context
 :::
 
-::: {.g-col-md-7 .g-col-12}
+::: {.g-col-md-8 .g-col-12}
 
 Species are not independent. They are shaped by the _ecological interdependence_ among members of their communities and the _evolutionary history_ from which they arise. The interplay between Ecology and Evolution gives rise to the biodiversity we observe in nature, with interactions spanning multiple levels of biological organization, from genes to populations to communities.
 
@@ -22,7 +22,7 @@ A central question we ask is to what extent this diversity is driven by
 Plant–microbe symbioses, together with mobile symbiosis genes, provide a clear example of such interdependent systems. In the legume–rhizobium–MGE (mobile genetic element) system, diversity emerges at each level, including host species and genotypes, rhizobial species and strains, and sequence and structural variation in MGEs.
 :::
 
-::: {.g-col-md-5 .g-col-12}
+::: {.g-col-md-4 .g-col-12}
 ![](images/research/cartoon.png){.research-image}
 :::
 
@@ -53,7 +53,7 @@ Together, this system provides a natural framework for studying how symbiosis ev
 
 ![](images/icons/key.svg){.icon} Facultative symbiosis, mutualism, rhizobia.
 
-![](images/icons/multiple-pages.svg){.icon} [Chang et al. 2025](https://www.biorxiv.org/content/10.1101/2025.01.14.632453v2)
+![](images/icons/multiple-pages.svg){.icon} [Chang et al. 2025](https://link.springer.com/article/10.1007/s00248-025-02678-y)
 
 Facultative symbionts alternate between host-associated and free-living stages. We study how environmental adaptation outside the host drives genomic divergence and population structure, providing new insights into the evolution of microbial symbiosis.
 :::
@@ -62,7 +62,7 @@ Facultative symbionts alternate between host-associated and free-living stages. 
 ### Emergent Coexistence & Community Assembly
 ![](images/research/coexistence.png){.research-image}
 
-![](images/icons/light-bulb.svg){.icon} Why do diverse microbial consortia coexist, and can such coexistence be explained by simple pairwise priniciples?
+![](images/icons/light-bulb.svg){.icon} Why do diverse microbial consortia coexist, and can such coexistence be explained by simple pairwise principles?
 
 ![](images/icons/book.svg){.icon} Coexistence arises as an emergent property of microbial communities— systems that remain stable even when their constituent pairs cannot.
 
