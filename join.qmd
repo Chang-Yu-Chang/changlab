@@ -15,7 +15,7 @@ Our research spans **community ecology**, **microbial ecology**, and **evolution
 
 While no specific wet- or dry-lab background is required, trainees in the lab are encouraged to develop a versatile skill set that spans both experimental and computational methods.  
 
-If you are interested in joining, please contact **Dr. Chang-Yu Chang** at [changyuchang@gate.sinica.edu.tw](mailto:changyuchang@gate.sinica.edu.tw) with your **CV**, a short **summary of research experience**, and a brief **statement of interests**.
+If you are interested in joining, please contact **Dr. Chang-Yu Chang** at [changyuchang@as.edu.tw](mailto:changyuchang@gate.sinica.edu.tw) with your **CV**, a short **summary of research experience**, and a brief **statement of interests**.
 
 
 
@@ -24,7 +24,7 @@ If you are interested in joining, please contact **Dr. Chang-Yu Chang** at [chan
 ::: {.join-card}
 ### ![](images/icons/group.svg){.icon}  Research Assistant
 
-We anticipate hiring 1-2 **full-time Research Assistant** to help daily operation and supporting the research. 
+We anticipate hiring one **full-time Research Assistant** to help daily operation and supporting the research. We welcome candidates coming from diverse backgrounds (e.g., ecology, evolution, microbiology, genomics, theory, statistics, genetics, etc) and strong motivation in biodiversity, ecology and evolution.
 
 Please see the [job post](https://www.sinica.edu.tw/recruitment_content/53/11885) for more details.
 
@@ -33,7 +33,7 @@ Please see the [job post](https://www.sinica.edu.tw/recruitment_content/53/11885
 ::: {.join-card}
 ### ![](images/icons/server-connection.svg){.icon} Postdoc
 
-We invite applications from postdoctoral researchers interested in microbial symbiosis, ecology, or evolutionary genomics.  
+We invite applications from postdoctoral researchers interested in microbial symbiosis, ecology, or evolutionary genomics.   
 
 Please see the [job post](https://www.sinica.edu.tw/recruitment_content/53/11886) for more details.
 :::
@@ -47,7 +47,7 @@ PhD students are recruited through the [Taiwan International Graduate Program (T
 - The next application period runs **Nov 1, 2025 – Feb 1, 2026** for Fall 2026 admission.  
 - More details: [TIGP Application Portal](https://tigp.apps.sinica.edu.tw/)  
 
-Prospective students are encouraged to reach out before applying to discuss research interests and potential projects.
+Prospective students are encouraged to reach out before applying to discuss research interests and potential projects. 
 :::
 
 ::: {.join-card}
