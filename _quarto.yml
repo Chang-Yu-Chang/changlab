@@ -2,11 +2,14 @@ project:
   type: website
 
 website:
-  title: "Laboratory of Microbial Symbiosis, Ecology, and Evolution"
   site-url: "https://chang-yu-chang.github.io/changlab/"
   favicon: "images/index/logo.png"
   google-analytics: "G-Q3LJHCQ46Q"
   navbar:
+    logo: 
+      light: images/index/asset_white_text.png
+      dark: images/index/asset_white_text.png
+    logo-alt: "Laboratory of Microbial Symbiosis, Ecology, and Evolution"
     right:
       - text: People
         href: people.qmd
