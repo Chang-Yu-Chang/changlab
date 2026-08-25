@@ -10,11 +10,11 @@ format:
 library(yaml)
 people <- read_yaml("_data/people.yml")
 ```
-
+ 
 ::: {.grid}
 ```{r}
 #| echo: false
-#| results: asis
+#| results: asis 
 for (i in seq_along(people)) {
   person <- people[[i]]
   cat(sprintf("::: {.g-col-md-4 .g-col-12}\n\n![](%s){.headshot-image}\n\n**%s %s**\n\n*%s*\n\n%s", person$image, person$name, if (!is.null(person$name_zh)) person$name_zh else "", person$role, person$bio))

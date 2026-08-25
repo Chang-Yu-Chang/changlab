@@ -7,7 +7,7 @@ format:
 ::: {.grid}
 
 ::: {.g-col-md-12 .g-col-12}
-### Studying the microbial symbiosis in its natural context
+### Studying the microbial **symbiosis** in its natural context
 :::
 
 ::: {.g-col-md-8 .g-col-12}

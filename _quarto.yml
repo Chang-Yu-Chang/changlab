@@ -1,6 +1,7 @@
 project:
   type: website
 
+pagetitle: "Laboratory of Microbial Symbiosis, Ecology, and Evolution"
 website:
   site-url: "https://chang-yu-chang.github.io/changlab/"
   favicon: "images/index/logo.png"
@@ -19,6 +20,9 @@ website:
         href: publications.qmd
       - text: Join Us
         href: join.qmd
+  page-footer:
+    left: "© 2025 Laboratory of Microbial Ecology and Evolution"
+    right: "Logo and assets design by Yueh Lu 盧悅"
 
 format:
   html:
