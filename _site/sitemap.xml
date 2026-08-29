@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chang-yu-chang.github.io/changlab/people.html</loc>
-    <lastmod>2026-08-25T10:09:05.119Z</lastmod>
+    <lastmod>2026-08-28T08:41:33.053Z</lastmod>
   </url>
   <url>
     <loc>https://chang-yu-chang.github.io/changlab/index.html</loc>
-    <lastmod>2026-08-25T10:09:57.300Z</lastmod>
+    <lastmod>2026-08-29T02:21:34.431Z</lastmod>
   </url>
   <url>
     <loc>https://chang-yu-chang.github.io/changlab/research.html</loc>
-    <lastmod>2026-08-05T08:52:21.947Z</lastmod>
+    <lastmod>2026-08-29T02:28:36.217Z</lastmod>
   </url>
   <url>
     <loc>https://chang-yu-chang.github.io/changlab/join.html</loc>
@@ -19,5 +19,9 @@
   <url>
     <loc>https://chang-yu-chang.github.io/changlab/publications.html</loc>
     <lastmod>2026-03-17T03:05:11.135Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chang-yu-chang.github.io/changlab/news.html</loc>
+    <lastmod>2026-08-28T10:10:26.686Z</lastmod>
   </url>
 </urlset>

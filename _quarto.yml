@@ -12,6 +12,8 @@ website:
       dark: images/index/asset_white_text.png
     logo-alt: "Laboratory of Microbial Symbiosis, Ecology, and Evolution"
     right:
+      - text: News
+        href: news.qmd
       - text: People
         href: people.qmd
       - text: Research

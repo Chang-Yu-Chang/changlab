@@ -26,8 +26,8 @@ Plant–microbe symbioses, together with mobile symbiosis genes, provide a clear
 ![](images/research/cartoon.png){.research-image}
 :::
 
-::: {.g-col-md-3 .g-col-12 .text-center}
-![_Grona triflora_ 蠅翼草 (white) and _Grona heterphylla_ 異葉山螞蝗 (purple)](images/research/pics/grona.jpg){.photo-image}
+::: {.g-col-md-4 .g-col-12 .text-center}
+![_Grona triflora_ 蠅翼草 (white) and _Grona heterphylla_ 異葉山螞蝗 (purple)](images/research/pics/grona.jpg){.research-image}
 :::
 
 ::: {.g-col-md-8 .g-col-12}

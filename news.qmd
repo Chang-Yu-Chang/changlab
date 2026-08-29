@@ -1,0 +1,60 @@
+---
+format:
+  html:
+    page-layout: full
+---
+ 
+```{r}
+#| echo: false
+#| message: false
+#| results: asis
+
+library(yaml) 
+news_list <- read_yaml("_data/news.yml")
+ 
+# Open main outer grid container
+cat("::: {.grid}\n\n")
+
+for (i in seq_along(news_list)) {
+  item <- news_list[[i]] 
+  
+  cat("::: {.g-col-12 .g-col-md-4}\n\n")
+  cat("::: {.card .border-0 .h-100}\n\n")
+  
+  # Render photos inside an inner grid if present
+  if (!is.null(item$photos) && length(item$photos) > 0) {
+    n_photos <- length(item$photos)
+    
+    # 1. Choose layout column width based on photo count
+    col_class <- if (n_photos == 2) "g-col-6" else if (n_photos == 3) "g-col-4" else "g-col-12"
+    
+    # 2. Choose image CSS class (single photo vs multi-photo)
+    img_class <- if (n_photos == 1) "horizontal-photo-image" else "photo-image"
+    
+    cat('::: {.grid style="--bs-gap: 0.5rem; padding: 0.75rem 0.75rem 0 0.75rem;"}\n\n')
+
+    for (p in item$photos) {
+      cat(sprintf('::: {.%s}\n\n', col_class))
+      cat(sprintf('![](%s){.%s}\n\n', p$image, img_class))
+      if (!is.null(p$caption) && nchar(p$caption) > 0) {
+        cat(sprintf('<div class="mt-1"><mark>%s</mark></div>\n\n', p$caption))
+      }
+      cat(':::\n\n')
+    } 
+    
+    cat(':::\n\n')
+  }
+  
+  # Render Date and Text Body
+  cat('::: {.card-body .px-3 .pt-2}\n\n')
+  cat(sprintf('<small class="text-muted d-block mb-1">%s</small>\n\n', item$date))
+  cat(sprintf('%s\n\n', item$text))
+  cat(':::\n\n')
+  
+  cat(":::\n\n")
+  cat(":::\n\n")
+}
+
+# Close main outer grid container
+cat(":::\n\n")
+```
