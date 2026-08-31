@@ -1,5 +1,16 @@
+
+- date: "2026-08-28"
+  text: "The lab's first sumemr intern Yi-Zhen Yang 楊沂蓁 slayed her first poster presentation!" 
+  photos:
+    - image: "images/news/20260828.jpg"
+
+- date: "2026-05-22"
+  text: "We visited 臺東農業改良場 (thanks to Dr. 王誌偉 for hosting us!) and completed a field survey there!" 
+  photos:
+    - image: "images/news/20260522.jpg"
+
 - date: "2026-05-14"
-  text: "The lab has a grand opening party :)" 
+  text: "The lab had a grand opening party :) Thanks to all our friends for coming!" 
   photos:
     - image: "images/news/20260514.jpg"
 
@@ -10,23 +21,23 @@
     - image: "images/news/20260325-02.jpg"
 
 - date: "2026-03-25"
-  text: "We welcome a new member Hilary Szu Yin Shiue 薛絲尹 onboard!" 
+  text: "We welcome our new member, Hilary Szu Yin Shiue 薛絲尹, onboard!" 
   photos:
     - image: "images/people/hilary.jpg"
 
 - date: "2026-02-04"
-  text: "We have our first field trip on campus. Great time starting to collect legumes."
+  text: "We had our first field trip on campus—a great start to collecting legumes."
   photos:
     - image: "images/news/20260204.jpg"
 
 - date: "2025-01-06"
-  text: "The first lab members joined! Welcome Tzu-Hsin Ku 顧子欣 and Kuan-Fen Lai 賴冠吩!"
+  text: "Our first lab members joined! A warm welcome to Tzu-Hsin Ku 顧子欣 and Kuan-Fen Lai 賴冠吩!"
   photos:
     - image: "images/people/kuanfen.jpg"
     - image: "images/people/tzuhsin.jpg"
 
 - date: "2025-11-01"
-  text: "We are (I am) excited to open the lab door in the Greenhouse Building, Academia Sinica!"
+  text: "Excited to officially open the lab doors at the Greenhouse Building, Academia Sinica!"
   photos:
     - image: "images/news/20251101-01.jpg"
     - image: "images/news/20251101-02.jpg"

@@ -63,6 +63,7 @@ body.quarto-dark .g-col-md-4 h3 {
 /* Shared Base Image Interactions */
 .headshot-image,
 .photo-image,
+.image,
 .horizontal-photo-image {
   object-fit: cover;
   object-position: center;
@@ -89,7 +90,7 @@ body.quarto-dark .g-col-md-4 h3 {
 /* Vertical Photos (8:9 Aspect Ratio) */
 .photo-image {
   aspect-ratio: 8 / 9;
-  padding: 10px;
+  padding: 2px;
 }
 
 /* Landscape / Wide Photos (16:9 Aspect Ratio) */

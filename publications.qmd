@@ -13,9 +13,6 @@ pubs <- read_yaml("_data/publications.yml")
 
 \# Co-corresponding authors.  *Co-1st authors.   
 
-## Preprints
-
-
 ## Journals
 
 ```{r}

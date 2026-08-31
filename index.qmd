@@ -23,11 +23,13 @@ Our research sits at the interface of evolutionary ecology and systems biology. 
 
 :::
 ::: {.g-col-md-6 .g-col-12 .text-center}
-![Greenhouse building](images/index/greenhouse1.jpg){.photo-image}
+![Greenhouse building](images/index/greenhouse1.jpg){.image}
 :::
 
 ::: {.g-col-md-6 .g-col-12 .text-center}
-![Academia Sinica](images/index/as1.jpg){.photo-image}
+![Academia Sinica](images/index/as1.jpg){.image}
 :::
 :::
+
+
 
